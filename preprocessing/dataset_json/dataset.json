@@ -1,0 +1,310 @@
+{
+    "FaceForensics++": {
+        "Deepfakes": {
+            "22__walking_and_outside_surprised.mp4": {
+                "label": "fake",
+                "frames": [
+                    "/path/to/frames/22__walking_and_outside_surprised.mp4/0-1261.png",
+                    "/path/to/frames/22__walking_and_outside_surprised.mp4/0-1256.png",
+                    "/path/to/frames/22__walking_and_outside_surprised.mp4/0-132.png",
+                    "/path/to/frames/22__walking_and_outside_surprised.mp4/0-674.png",
+                    "/path/to/frames/22__walking_and_outside_surprised.mp4/1-101.png"
+                ]
+            },
+            "24__exit_phone_room.mp4": {
+                "label": "fake",
+                "frames": [
+                    "/path/to/frames/24__exit_phone_room.mp4/0-218.png",
+                    "/path/to/frames/24__exit_phone_room.mp4/0-488.png",
+                    "/path/to/frames/24__exit_phone_room.mp4/0-442.png",
+                    "/path/to/frames/24__exit_phone_room.mp4/0-323.png",
+                    "/path/to/frames/24__exit_phone_room.mp4/0-481.png"
+                ]
+            },
+            "01__walking_and_outside_surprised.mp4": {
+                "label": "fake",
+                "frames": [
+                    "/path/to/frames/01__walking_and_outside_surprised.mp4/0-366.png",
+                    "/path/to/frames/01__walking_and_outside_surprised.mp4/0-1693.png",
+                    "/path/to/frames/01__walking_and_outside_surprised.mp4/0-1500.png",
+                    "/path/to/frames/01__walking_and_outside_surprised.mp4/0-1111.png",
+                    "/path/to/frames/01__walking_and_outside_surprised.mp4/1-539.png"
+                ]
+            },
+            "06__walking_and_outside_surprised.mp4": {
+                "label": "fake",
+                "frames": [
+                    "/path/to/frames/06__walking_and_outside_surprised.mp4/0-38.png",
+                    "/path/to/frames/06__walking_and_outside_surprised.mp4/0-1169.png",
+                    "/path/to/frames/06__walking_and_outside_surprised.mp4/1-93.png",
+                    "/path/to/frames/06__walking_and_outside_surprised.mp4/1-100.png",
+                    "/path/to/frames/06__walking_and_outside_surprised.mp4/0-861.png"
+                ]
+            },
+            "21__exit_phone_room.mp4": {
+                "label": "fake",
+                "frames": [
+                    "/path/to/frames/21__exit_phone_room.mp4/0-578.png",
+                    "/path/to/frames/21__exit_phone_room.mp4/0-132.png",
+                    "/path/to/frames/21__exit_phone_room.mp4/0-234.png",
+                    "/path/to/frames/21__exit_phone_room.mp4/0-328.png",
+                    "/path/to/frames/21__exit_phone_room.mp4/0-374.png"
+                ]
+            },
+            "06__podium_speech_happy.mp4": {
+                "label": "fake",
+                "frames": [
+                    "/path/to/frames/06__podium_speech_happy.mp4/0-1104.png",
+                    "/path/to/frames/06__podium_speech_happy.mp4/0-247.png",
+                    "/path/to/frames/06__podium_speech_happy.mp4/0-1105.png",
+                    "/path/to/frames/06__podium_speech_happy.mp4/0-61.png",
+                    "/path/to/frames/06__podium_speech_happy.mp4/0-607.png"
+                ]
+            },
+            "06__talking_against_wall.mp4": {
+                "label": "fake",
+                "frames": [
+                    "/path/to/frames/06__talking_against_wall.mp4/0-614.png",
+                    "/path/to/frames/06__talking_against_wall.mp4/0-205.png",
+                    "/path/to/frames/06__talking_against_wall.mp4/0-290.png",
+                    "/path/to/frames/06__talking_against_wall.mp4/0-749.png",
+                    "/path/to/frames/06__talking_against_wall.mp4/0-618.png"
+                ]
+            },
+            "22__outside_talking_still_laughing.mp4": {
+                "label": "fake",
+                "frames": [
+                    "/path/to/frames/22__outside_talking_still_laughing.mp4/0-454.png",
+                    "/path/to/frames/22__outside_talking_still_laughing.mp4/0-79.png",
+                    "/path/to/frames/22__outside_talking_still_laughing.mp4/0-92.png",
+                    "/path/to/frames/22__outside_talking_still_laughing.mp4/0-267.png",
+                    "/path/to/frames/22__outside_talking_still_laughing.mp4/0-161.png"
+                ]
+            },
+            "20__talking_against_wall.mp4": {
+                "label": "fake",
+                "frames": [
+                    "/path/to/frames/20__talking_against_wall.mp4/0-974.png",
+                    "/path/to/frames/20__talking_against_wall.mp4/0-922.png",
+                    "/path/to/frames/20__talking_against_wall.mp4/0-571.png",
+                    "/path/to/frames/20__talking_against_wall.mp4/0-836.png",
+                    "/path/to/frames/20__talking_against_wall.mp4/0-518.png"
+                ]
+            },
+            "19__talking_angry_couch.mp4": {
+                "label": "fake",
+                "frames": [
+                    "/path/to/frames/19__talking_angry_couch.mp4/0-1368.png",
+                    "/path/to/frames/19__talking_angry_couch.mp4/0-1103.png",
+                    "/path/to/frames/19__talking_angry_couch.mp4/0-1053.png",
+                    "/path/to/frames/19__talking_angry_couch.mp4/0-1590.png",
+                    "/path/to/frames/19__talking_angry_couch.mp4/0-1110.png"
+                ]
+            },
+            "01__secret_conversation.mp4": {
+                "label": "fake",
+                "frames": [
+                    "/path/to/frames/01__secret_conversation.mp4/1-938.png",
+                    "/path/to/frames/01__secret_conversation.mp4/1-58.png",
+                    "/path/to/frames/01__secret_conversation.mp4/1-1120.png",
+                    "/path/to/frames/01__secret_conversation.mp4/1-521.png",
+                    "/path/to/frames/01__secret_conversation.mp4/1-291.png"
+                ]
+            },
+            "27__exit_phone_room.mp4": {
+                "label": "fake",
+                "frames": [
+                    "/path/to/frames/27__exit_phone_room.mp4/0-349.png",
+                    "/path/to/frames/27__exit_phone_room.mp4/0-136.png",
+                    "/path/to/frames/27__exit_phone_room.mp4/0-89.png",
+                    "/path/to/frames/27__exit_phone_room.mp4/0-121.png",
+                    "/path/to/frames/27__exit_phone_room.mp4/0-332.png"
+                ]
+            },
+            "03__talking_angry_couch.mp4": {
+                "label": "fake",
+                "frames": [
+                    "/path/to/frames/03__talking_angry_couch.mp4/0-995.png",
+                    "/path/to/frames/03__talking_angry_couch.mp4/0-941.png",
+                    "/path/to/frames/03__talking_angry_couch.mp4/0-254.png",
+                    "/path/to/frames/03__talking_angry_couch.mp4/0-777.png",
+                    "/path/to/frames/03__talking_angry_couch.mp4/0-1051.png"
+                ]
+            },
+            "07__secret_conversation.mp4": {
+                "label": "fake",
+                "frames": [
+                    "/path/to/frames/07__secret_conversation.mp4/0-1015.png",
+                    "/path/to/frames/07__secret_conversation.mp4/0-1542.png",
+                    "/path/to/frames/07__secret_conversation.mp4/0-1123.png",
+                    "/path/to/frames/07__secret_conversation.mp4/0-1584.png",
+                    "/path/to/frames/07__secret_conversation.mp4/0-1303.png"
+                ]
+            },
+            "19__walking_outside_cafe_disgusted.mp4": {
+                "label": "fake",
+                "frames": [
+                    "/path/to/frames/19__walking_outside_cafe_disgusted.mp4/1-386.png",
+                    "/path/to/frames/19__walking_outside_cafe_disgusted.mp4/1-993.png",
+                    "/path/to/frames/19__walking_outside_cafe_disgusted.mp4/1-639.png",
+                    "/path/to/frames/19__walking_outside_cafe_disgusted.mp4/1-603.png",
+                    "/path/to/frames/19__walking_outside_cafe_disgusted.mp4/1-1028.png"
+                ]
+            }
+        },
+        "original_sequences": {
+            "youtube": {
+                "091.mp4": {
+                    "label": "real",
+                    "frames": [
+                        "/path/to/frames/091.mp4/0-239.png",
+                        "/path/to/frames/091.mp4/0-314.png",
+                        "/path/to/frames/091.mp4/0-51.png",
+                        "/path/to/frames/091.mp4/0-368.png",
+                        "/path/to/frames/091.mp4/0-128.png"
+                    ]
+                },
+                "111.mp4": {
+                    "label": "real",
+                    "frames": [
+                        "/path/to/frames/111.mp4/0-198.png",
+                        "/path/to/frames/111.mp4/0-152.png",
+                        "/path/to/frames/111.mp4/0-116.png",
+                        "/path/to/frames/111.mp4/0-121.png",
+                        "/path/to/frames/111.mp4/0-148.png"
+                    ]
+                },
+                "250.mp4": {
+                    "label": "real",
+                    "frames": [
+                        "/path/to/frames/250.mp4/0-468.png",
+                        "/path/to/frames/250.mp4/0-555.png",
+                        "/path/to/frames/250.mp4/0-166.png",
+                        "/path/to/frames/250.mp4/0-387.png",
+                        "/path/to/frames/250.mp4/0-501.png"
+                    ]
+                },
+                "602.mp4": {
+                    "label": "real",
+                    "frames": [
+                        "/path/to/frames/602.mp4/0-469.png",
+                        "/path/to/frames/602.mp4/0-205.png",
+                        "/path/to/frames/602.mp4/0-438.png",
+                        "/path/to/frames/602.mp4/0-48.png",
+                        "/path/to/frames/602.mp4/0-239.png"
+                    ]
+                },
+                "031.mp4": {
+                    "label": "real",
+                    "frames": [
+                        "/path/to/frames/031.mp4/0-133.png",
+                        "/path/to/frames/031.mp4/0-401.png",
+                        "/path/to/frames/031.mp4/0-67.png",
+                        "/path/to/frames/031.mp4/0-239.png",
+                        "/path/to/frames/031.mp4/0-222.png"
+                    ]
+                },
+                "748.mp4": {
+                    "label": "real",
+                    "frames": [
+                        "/path/to/frames/748.mp4/0-250.png",
+                        "/path/to/frames/748.mp4/0-174.png",
+                        "/path/to/frames/748.mp4/0-313.png",
+                        "/path/to/frames/748.mp4/0-279.png",
+                        "/path/to/frames/748.mp4/0-49.png"
+                    ]
+                },
+                "700.mp4": {
+                    "label": "real",
+                    "frames": [
+                        "/path/to/frames/700.mp4/0-40.png",
+                        "/path/to/frames/700.mp4/0-159.png",
+                        "/path/to/frames/700.mp4/0-102.png",
+                        "/path/to/frames/700.mp4/0-160.png",
+                        "/path/to/frames/700.mp4/0-147.png"
+                    ]
+                },
+                "243.mp4": {
+                    "label": "real",
+                    "frames": [
+                        "/path/to/frames/243.mp4/0-121.png",
+                        "/path/to/frames/243.mp4/0-379.png",
+                        "/path/to/frames/243.mp4/0-161.png",
+                        "/path/to/frames/243.mp4/0-366.png",
+                        "/path/to/frames/243.mp4/0-84.png"
+                    ]
+                },
+                "435.mp4": {
+                    "label": "real",
+                    "frames": [
+                        "/path/to/frames/435.mp4/0-26.png",
+                        "/path/to/frames/435.mp4/0-326.png",
+                        "/path/to/frames/435.mp4/0-286.png",
+                        "/path/to/frames/435.mp4/0-303.png",
+                        "/path/to/frames/435.mp4/0-61.png"
+                    ]
+                },
+                "778.mp4": {
+                    "label": "real",
+                    "frames": [
+                        "/path/to/frames/778.mp4/0-225.png",
+                        "/path/to/frames/778.mp4/0-17.png",
+                        "/path/to/frames/778.mp4/0-73.png",
+                        "/path/to/frames/778.mp4/0-80.png",
+                        "/path/to/frames/778.mp4/0-91.png"
+                    ]
+                },
+                "772.mp4": {
+                    "label": "real",
+                    "frames": [
+                        "/path/to/frames/772.mp4/0-253.png",
+                        "/path/to/frames/772.mp4/0-288.png",
+                        "/path/to/frames/772.mp4/0-149.png",
+                        "/path/to/frames/772.mp4/0-59.png",
+                        "/path/to/frames/772.mp4/0-295.png"
+                    ]
+                },
+                "356.mp4": {
+                    "label": "real",
+                    "frames": [
+                        "/path/to/frames/356.mp4/0-261.png",
+                        "/path/to/frames/356.mp4/0-29.png",
+                        "/path/to/frames/356.mp4/0-342.png",
+                        "/path/to/frames/356.mp4/1-41.png",
+                        "/path/to/frames/356.mp4/0-281.png"
+                    ]
+                },
+                "847.mp4": {
+                    "label": "real",
+                    "frames": [
+                        "/path/to/frames/847.mp4/0-71.png",
+                        "/path/to/frames/847.mp4/0-148.png",
+                        "/path/to/frames/847.mp4/0-220.png",
+                        "/path/to/frames/847.mp4/0-289.png",
+                        "/path/to/frames/847.mp4/0-88.png"
+                    ]
+                },
+                "421.mp4": {
+                    "label": "real",
+                    "frames": [
+                        "/path/to/frames/421.mp4/0-884.png",
+                        "/path/to/frames/421.mp4/0-495.png",
+                        "/path/to/frames/421.mp4/0-542.png",
+                        "/path/to/frames/421.mp4/0-991.png",
+                        "/path/to/frames/421.mp4/0-850.png"
+                    ]
+                },
+                "992.mp4": {
+                    "label": "real",
+                    "frames": [
+                        "/path/to/frames/992.mp4/0-245.png",
+                        "/path/to/frames/992.mp4/0-419.png",
+                        "/path/to/frames/992.mp4/0-257.png",
+                        "/path/to/frames/992.mp4/0-578.png",
+                        "/path/to/frames/992.mp4/0-633.png"
+                    ]
+                }
+            }
+        }
+    }
+}

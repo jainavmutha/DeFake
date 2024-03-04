@@ -1,0 +1,915 @@
+2024-03-02 16:36:31,733 - ERROR - Dataset path does not exist: dataset/FaceForensics++
+2024-03-02 16:36:43,590 - ERROR - Dataset path does not exist: dataset/FaceForensics++
+2024-03-02 16:39:03,504 - ERROR - Sub Dataset path does not exist: /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/original_sequences/youtube/c23
+2024-03-02 16:48:45,826 - ERROR - Sub Dataset path does not exist: /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/original_sequences/youtube
+2024-03-02 17:17:07,411 - ERROR - Sub Dataset path does not exist: /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/Real/Actors/Validation
+2024-03-02 17:20:30,060 - INFO - 9 videos found in /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/actors/train
+2024-03-02 17:20:31,255 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/actors/train/06__walking_and_outside_surprised.mp4
+2024-03-02 17:20:31,255 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/actors/train/11__secret_conversation.mp4
+2024-03-02 17:20:31,255 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/actors/train/01__walking_and_outside_surprised.mp4
+2024-03-02 17:20:31,913 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/actors/train/08__exit_phone_room.mp4
+2024-03-02 17:20:32,014 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/actors/train/17__talking_angry_couch.mp4
+2024-03-02 17:20:32,015 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/actors/train/21__exit_phone_room.mp4
+2024-03-02 17:20:32,377 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/actors/train/24__exit_phone_room.mp4
+2024-03-02 17:20:32,377 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/actors/train/22__walking_and_outside_surprised.mp4
+2024-03-02 17:20:32,391 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/actors/train/28__podium_speech_happy.mp4
+2024-03-02 17:20:32,416 - INFO - Current time: 2024-03-02 17:20:32
+2024-03-02 17:20:32,416 - INFO - Current time: 2024-03-02 17:20:32
+2024-03-02 17:20:32,416 - INFO - Current time: 2024-03-02 17:20:32
+2024-03-02 17:20:32,416 - INFO - Current time: 2024-03-02 17:20:32
+2024-03-02 17:20:32,416 - INFO - Current time: 2024-03-02 17:20:32
+2024-03-02 17:20:32,416 - INFO - Current time: 2024-03-02 17:20:32
+2024-03-02 17:20:32,416 - INFO - Current time: 2024-03-02 17:20:32
+2024-03-02 17:20:32,416 - INFO - Current time: 2024-03-02 17:20:32
+2024-03-02 17:20:32,416 - INFO - Current time: 2024-03-02 17:20:32
+2024-03-02 17:20:32,416 - INFO - Total time taken: 0.04 minutes
+2024-03-02 17:20:32,417 - INFO - 9 videos found in /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/actors/test
+2024-03-02 17:20:33,172 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/actors/test/06__kitchen_still.mp4
+2024-03-02 17:20:33,342 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/actors/test/06__podium_speech_happy.mp4
+2024-03-02 17:20:33,343 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/actors/test/06__talking_against_wall.mp4
+2024-03-02 17:20:34,617 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/actors/test/19__talking_angry_couch.mp4
+2024-03-02 17:20:34,622 - INFO - Current time: 2024-03-02 17:20:34
+2024-03-02 17:20:34,724 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/actors/test/12__outside_talking_still_laughing.mp4
+2024-03-02 17:20:34,724 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/actors/test/17__hugging_happy.mp4
+2024-03-02 17:20:34,724 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/actors/test/15__exit_phone_room.mp4
+2024-03-02 17:20:34,724 - INFO - Current time: 2024-03-02 17:20:34
+2024-03-02 17:20:34,731 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/actors/test/20__talking_against_wall.mp4
+2024-03-02 17:20:34,736 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/actors/test/22__outside_talking_still_laughing.mp4
+2024-03-02 17:20:34,736 - INFO - Current time: 2024-03-02 17:20:34
+2024-03-02 17:20:34,744 - INFO - Current time: 2024-03-02 17:20:34
+2024-03-02 17:20:34,744 - INFO - Current time: 2024-03-02 17:20:34
+2024-03-02 17:20:34,744 - INFO - Current time: 2024-03-02 17:20:34
+2024-03-02 17:20:34,744 - INFO - Current time: 2024-03-02 17:20:34
+2024-03-02 17:20:34,744 - INFO - Current time: 2024-03-02 17:20:34
+2024-03-02 17:20:34,744 - INFO - Current time: 2024-03-02 17:20:34
+2024-03-02 17:20:34,745 - INFO - Total time taken: 0.04 minutes
+2024-03-02 17:20:34,748 - INFO - 9 videos found in /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/actors/val
+2024-03-02 17:20:35,896 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/actors/val/03__talking_angry_couch.mp4
+2024-03-02 17:20:36,055 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/actors/val/07__secret_conversation.mp4
+2024-03-02 17:20:36,058 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/actors/val/07__walking_outside_cafe_disgusted.mp4
+2024-03-02 17:20:36,158 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/actors/val/01__secret_conversation.mp4
+2024-03-02 17:20:36,666 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/actors/val/09__talking_against_wall.mp4
+2024-03-02 17:20:36,917 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/actors/val/15__talking_angry_couch.mp4
+2024-03-02 17:20:37,021 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/actors/val/15__walking_outside_cafe_disgusted.mp4
+2024-03-02 17:20:37,025 - INFO - Current time: 2024-03-02 17:20:37
+2024-03-02 17:20:37,029 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/actors/val/27__exit_phone_room.mp4
+2024-03-02 17:20:37,032 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/actors/val/19__walking_outside_cafe_disgusted.mp4
+2024-03-02 17:20:37,040 - INFO - Current time: 2024-03-02 17:20:37
+2024-03-02 17:20:37,048 - INFO - Current time: 2024-03-02 17:20:37
+2024-03-02 17:20:37,048 - INFO - Current time: 2024-03-02 17:20:37
+2024-03-02 17:20:37,048 - INFO - Current time: 2024-03-02 17:20:37
+2024-03-02 17:20:37,049 - INFO - Current time: 2024-03-02 17:20:37
+2024-03-02 17:20:37,049 - INFO - Current time: 2024-03-02 17:20:37
+2024-03-02 17:20:37,049 - INFO - Current time: 2024-03-02 17:20:37
+2024-03-02 17:20:37,049 - INFO - Current time: 2024-03-02 17:20:37
+2024-03-02 17:20:37,049 - INFO - Total time taken: 0.04 minutes
+2024-03-02 17:20:37,050 - INFO - 10 videos found in /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/youtube/train
+2024-03-02 17:20:37,951 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/youtube/train/031.mp4
+2024-03-02 17:20:38,414 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/youtube/train/111.mp4
+2024-03-02 17:20:38,615 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/youtube/train/091.mp4
+2024-03-02 17:20:38,980 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/youtube/train/187.mp4
+2024-03-02 17:20:39,079 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/youtube/train/268.mp4
+2024-03-02 17:20:39,079 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/youtube/train/250.mp4
+2024-03-02 17:20:39,079 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/youtube/train/196.mp4
+2024-03-02 17:20:39,480 - INFO - Current time: 2024-03-02 17:20:39
+2024-03-02 17:20:39,589 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/youtube/train/887.mp4
+2024-03-02 17:20:39,589 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/youtube/train/605.mp4
+2024-03-02 17:20:39,593 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/youtube/train/602.mp4
+2024-03-02 17:20:39,601 - INFO - Current time: 2024-03-02 17:20:39
+2024-03-02 17:20:39,612 - INFO - Current time: 2024-03-02 17:20:39
+2024-03-02 17:20:39,612 - INFO - Current time: 2024-03-02 17:20:39
+2024-03-02 17:20:39,612 - INFO - Current time: 2024-03-02 17:20:39
+2024-03-02 17:20:39,612 - INFO - Current time: 2024-03-02 17:20:39
+2024-03-02 17:20:39,612 - INFO - Current time: 2024-03-02 17:20:39
+2024-03-02 17:20:39,612 - INFO - Current time: 2024-03-02 17:20:39
+2024-03-02 17:20:39,612 - INFO - Current time: 2024-03-02 17:20:39
+2024-03-02 17:20:39,612 - INFO - Current time: 2024-03-02 17:20:39
+2024-03-02 17:20:39,612 - INFO - Total time taken: 0.04 minutes
+2024-03-02 17:20:39,613 - INFO - 10 videos found in /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/youtube/test
+2024-03-02 17:20:40,514 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/youtube/test/079.mp4
+2024-03-02 17:20:40,514 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/youtube/test/003.mp4
+2024-03-02 17:20:41,222 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/youtube/test/243.mp4
+2024-03-02 17:20:41,532 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/youtube/test/462.mp4
+2024-03-02 17:20:42,141 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/youtube/test/435.mp4
+2024-03-02 17:20:42,141 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/youtube/test/700.mp4
+2024-03-02 17:20:42,141 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/youtube/test/503.mp4
+2024-03-02 17:20:42,141 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/youtube/test/590.mp4
+2024-03-02 17:20:42,144 - INFO - Current time: 2024-03-02 17:20:42
+2024-03-02 17:20:42,144 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/youtube/test/778.mp4
+2024-03-02 17:20:42,148 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/youtube/test/748.mp4
+2024-03-02 17:20:42,160 - INFO - Current time: 2024-03-02 17:20:42
+2024-03-02 17:20:42,166 - INFO - Current time: 2024-03-02 17:20:42
+2024-03-02 17:20:42,166 - INFO - Current time: 2024-03-02 17:20:42
+2024-03-02 17:20:42,166 - INFO - Current time: 2024-03-02 17:20:42
+2024-03-02 17:20:42,166 - INFO - Current time: 2024-03-02 17:20:42
+2024-03-02 17:20:42,166 - INFO - Current time: 2024-03-02 17:20:42
+2024-03-02 17:20:42,166 - INFO - Current time: 2024-03-02 17:20:42
+2024-03-02 17:20:42,166 - INFO - Current time: 2024-03-02 17:20:42
+2024-03-02 17:20:42,166 - INFO - Current time: 2024-03-02 17:20:42
+2024-03-02 17:20:42,166 - INFO - Total time taken: 0.04 minutes
+2024-03-02 17:20:42,167 - INFO - 10 videos found in /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/youtube/val
+2024-03-02 17:20:42,970 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/youtube/val/082.mp4
+2024-03-02 17:20:43,422 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/youtube/val/356.mp4
+2024-03-02 17:20:43,676 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/youtube/val/399.mp4
+2024-03-02 17:20:43,676 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/youtube/val/239.mp4
+2024-03-02 17:20:43,834 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/youtube/val/314.mp4
+2024-03-02 17:20:43,837 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/youtube/val/421.mp4
+2024-03-02 17:20:44,520 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/youtube/val/847.mp4
+2024-03-02 17:20:44,520 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/youtube/val/772.mp4
+2024-03-02 17:20:44,725 - INFO - Current time: 2024-03-02 17:20:44
+2024-03-02 17:20:44,728 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/youtube/val/924.mp4
+2024-03-02 17:20:44,729 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/youtube/val/992.mp4
+2024-03-02 17:20:44,735 - INFO - Current time: 2024-03-02 17:20:44
+2024-03-02 17:20:44,742 - INFO - Current time: 2024-03-02 17:20:44
+2024-03-02 17:20:44,742 - INFO - Current time: 2024-03-02 17:20:44
+2024-03-02 17:20:44,742 - INFO - Current time: 2024-03-02 17:20:44
+2024-03-02 17:20:44,742 - INFO - Current time: 2024-03-02 17:20:44
+2024-03-02 17:20:44,742 - INFO - Current time: 2024-03-02 17:20:44
+2024-03-02 17:20:44,743 - INFO - Current time: 2024-03-02 17:20:44
+2024-03-02 17:20:44,743 - INFO - Current time: 2024-03-02 17:20:44
+2024-03-02 17:20:44,743 - INFO - Current time: 2024-03-02 17:20:44
+2024-03-02 17:20:44,743 - INFO - Total time taken: 0.04 minutes
+2024-03-02 17:20:44,748 - INFO - 10 videos found in /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/deepfakedetection/train
+2024-03-02 17:20:45,657 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/deepfakedetection/train/01_12__kitchen_pan__TNI7KUZ6.mp4
+2024-03-02 17:20:45,913 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/deepfakedetection/train/03_02__meeting_serious__ZESUJMM7.mp4
+2024-03-02 17:20:46,566 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/deepfakedetection/train/07_15__walk_down_hall_angry__9Z2MLKVX.mp4
+2024-03-02 17:20:46,569 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/deepfakedetection/train/09_13__talking_against_wall__LPT427RY.mp4
+2024-03-02 17:20:46,818 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/deepfakedetection/train/18_26__outside_talking_still_laughing__AI94QW74.mp4
+2024-03-02 17:20:46,818 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/deepfakedetection/train/19_23__talking_angry_couch__WHQ1229T.mp4
+2024-03-02 17:20:47,281 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/deepfakedetection/train/26_14__secret_conversation__ILLP29ZH.mp4
+2024-03-02 17:20:47,281 - INFO - Current time: 2024-03-02 17:20:47
+2024-03-02 17:20:47,281 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/deepfakedetection/train/26_06__walking_down_street_outside_angry__L5BVR5L9.mp4
+2024-03-02 17:20:47,287 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/deepfakedetection/train/26_18__walk_down_hall_angry__UMEX6HWU.mp4
+2024-03-02 17:20:47,287 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/deepfakedetection/train/22_10__walk_down_hall_angry__PUJR4HJ1.mp4
+2024-03-02 17:20:47,287 - INFO - Current time: 2024-03-02 17:20:47
+2024-03-02 17:20:47,297 - INFO - Current time: 2024-03-02 17:20:47
+2024-03-02 17:20:47,297 - INFO - Current time: 2024-03-02 17:20:47
+2024-03-02 17:20:47,297 - INFO - Current time: 2024-03-02 17:20:47
+2024-03-02 17:20:47,297 - INFO - Current time: 2024-03-02 17:20:47
+2024-03-02 17:20:47,297 - INFO - Current time: 2024-03-02 17:20:47
+2024-03-02 17:20:47,297 - INFO - Current time: 2024-03-02 17:20:47
+2024-03-02 17:20:47,297 - INFO - Current time: 2024-03-02 17:20:47
+2024-03-02 17:20:47,297 - INFO - Current time: 2024-03-02 17:20:47
+2024-03-02 17:20:47,297 - INFO - Total time taken: 0.04 minutes
+2024-03-02 17:20:47,302 - INFO - 10 videos found in /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/deepfakedetection/test
+2024-03-02 17:20:48,103 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/deepfakedetection/test/02_07__walking_down_street_outside_angry__O4SXNLRL.mp4
+2024-03-02 17:20:48,716 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/deepfakedetection/test/12_13__walk_down_hall_angry__N8IGC93J.mp4
+2024-03-02 17:20:48,877 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/deepfakedetection/test/11_18__walk_down_hall_angry__KLKJ9FPE.mp4
+2024-03-02 17:20:49,079 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/deepfakedetection/test/07_02__walking_outside_cafe_disgusted__1H07DFQJ.mp4
+2024-03-02 17:20:49,238 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/deepfakedetection/test/07_25__walking_outside_cafe_disgusted__PAE9HCA8.mp4
+2024-03-02 17:20:49,487 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/deepfakedetection/test/12_26__talking_against_wall__OTKIGGFE.mp4
+2024-03-02 17:20:49,639 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/deepfakedetection/test/12_21__secret_conversation__J54W3PV1.mp4
+2024-03-02 17:20:49,640 - INFO - Current time: 2024-03-02 17:20:49
+2024-03-02 17:20:49,843 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/deepfakedetection/test/18_14__secret_conversation__MAEROFMR.mp4
+2024-03-02 17:20:49,844 - INFO - Current time: 2024-03-02 17:20:49
+2024-03-02 17:20:49,847 - INFO - Current time: 2024-03-02 17:20:49
+2024-03-02 17:20:49,847 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/deepfakedetection/test/18_26__walk_down_hall_angry__AI94QW74.mp4
+2024-03-02 17:20:49,847 - INFO - Current time: 2024-03-02 17:20:49
+2024-03-02 17:20:49,847 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/deepfakedetection/test/16_28__walking_outside_cafe_disgusted__R1QD0XDQ.mp4
+2024-03-02 17:20:49,849 - INFO - Current time: 2024-03-02 17:20:49
+2024-03-02 17:20:49,852 - INFO - Current time: 2024-03-02 17:20:49
+2024-03-02 17:20:49,852 - INFO - Current time: 2024-03-02 17:20:49
+2024-03-02 17:20:49,852 - INFO - Current time: 2024-03-02 17:20:49
+2024-03-02 17:20:49,852 - INFO - Current time: 2024-03-02 17:20:49
+2024-03-02 17:20:49,852 - INFO - Current time: 2024-03-02 17:20:49
+2024-03-02 17:20:49,852 - INFO - Total time taken: 0.04 minutes
+2024-03-02 17:20:49,856 - INFO - 10 videos found in /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/deepfakedetection/val
+2024-03-02 17:20:50,658 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/deepfakedetection/val/03_01__walking_and_outside_surprised__JZUXXFRB.mp4
+2024-03-02 17:20:50,816 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/deepfakedetection/val/03_20__walk_down_hall_angry__61SVZ2J7.mp4
+2024-03-02 17:20:52,393 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/deepfakedetection/val/23_22__kitchen_still__10R2HRAU.mp4
+2024-03-02 17:20:52,393 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/deepfakedetection/val/09_02__podium_speech_happy__9TDCEK1Q.mp4
+2024-03-02 17:20:52,393 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/deepfakedetection/val/16_17__walking_down_indoor_hall_disgust__S7UMSIQV.mp4
+2024-03-02 17:20:52,393 - INFO - Current time: 2024-03-02 17:20:52
+2024-03-02 17:20:52,393 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/deepfakedetection/val/07_14__walking_down_street_outside_angry__VOX29AK0.mp4
+2024-03-02 17:20:52,393 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/deepfakedetection/val/22_19__kitchen_still__VK6BF5NV.mp4
+2024-03-02 17:20:52,397 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/deepfakedetection/val/27_06__talking_against_wall__S3T7SK9O.mp4
+2024-03-02 17:20:52,397 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/deepfakedetection/val/25_07__outside_talking_pan_laughing__LZYKF7LK.mp4
+2024-03-02 17:20:52,400 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/deepfakedetection/val/28_05__podium_speech_happy__VR9127O1.mp4
+2024-03-02 17:20:52,404 - INFO - Current time: 2024-03-02 17:20:52
+2024-03-02 17:20:52,423 - INFO - Current time: 2024-03-02 17:20:52
+2024-03-02 17:20:52,423 - INFO - Current time: 2024-03-02 17:20:52
+2024-03-02 17:20:52,423 - INFO - Current time: 2024-03-02 17:20:52
+2024-03-02 17:20:52,423 - INFO - Current time: 2024-03-02 17:20:52
+2024-03-02 17:20:52,423 - INFO - Current time: 2024-03-02 17:20:52
+2024-03-02 17:20:52,423 - INFO - Current time: 2024-03-02 17:20:52
+2024-03-02 17:20:52,423 - INFO - Current time: 2024-03-02 17:20:52
+2024-03-02 17:20:52,423 - INFO - Current time: 2024-03-02 17:20:52
+2024-03-02 17:20:52,423 - INFO - Total time taken: 0.04 minutes
+2024-03-02 17:20:52,426 - INFO - 10 videos found in /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/face2face/train
+2024-03-02 17:20:53,221 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/face2face/train/100_077.mp4
+2024-03-02 17:20:53,369 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/face2face/train/264_271.mp4
+2024-03-02 17:20:54,116 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/face2face/train/402_453.mp4
+2024-03-02 17:20:54,722 - INFO - Current time: 2024-03-02 17:20:54
+2024-03-02 17:20:54,823 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/face2face/train/314_347.mp4
+2024-03-02 17:20:54,823 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/face2face/train/343_363.mp4
+2024-03-02 17:20:54,823 - INFO - Current time: 2024-03-02 17:20:54
+2024-03-02 17:20:54,928 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/face2face/train/527_454.mp4
+2024-03-02 17:20:54,928 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/face2face/train/561_998.mp4
+2024-03-02 17:20:54,928 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/face2face/train/407_374.mp4
+2024-03-02 17:20:54,932 - INFO - Current time: 2024-03-02 17:20:54
+2024-03-02 17:20:54,932 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/face2face/train/777_745.mp4
+2024-03-02 17:20:54,935 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/face2face/train/978_975.mp4
+2024-03-02 17:20:54,942 - INFO - Current time: 2024-03-02 17:20:54
+2024-03-02 17:20:54,949 - INFO - Current time: 2024-03-02 17:20:54
+2024-03-02 17:20:54,949 - INFO - Current time: 2024-03-02 17:20:54
+2024-03-02 17:20:54,949 - INFO - Current time: 2024-03-02 17:20:54
+2024-03-02 17:20:54,949 - INFO - Current time: 2024-03-02 17:20:54
+2024-03-02 17:20:54,949 - INFO - Current time: 2024-03-02 17:20:54
+2024-03-02 17:20:54,949 - INFO - Current time: 2024-03-02 17:20:54
+2024-03-02 17:20:54,949 - INFO - Total time taken: 0.04 minutes
+2024-03-02 17:20:54,953 - INFO - 10 videos found in /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/face2face/test
+2024-03-02 17:20:55,757 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/face2face/test/063_041.mp4
+2024-03-02 17:20:55,757 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/face2face/test/175_159.mp4
+2024-03-02 17:20:56,203 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/face2face/test/317_359.mp4
+2024-03-02 17:20:56,357 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/face2face/test/213_083.mp4
+2024-03-02 17:20:56,756 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/face2face/test/345_259.mp4
+2024-03-02 17:20:57,008 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/face2face/test/376_381.mp4
+2024-03-02 17:20:57,366 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/face2face/test/975_978.mp4
+2024-03-02 17:20:57,366 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/face2face/test/834_852.mp4
+2024-03-02 17:20:57,465 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/face2face/test/424_408.mp4
+2024-03-02 17:20:57,468 - INFO - Current time: 2024-03-02 17:20:57
+2024-03-02 17:20:57,473 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/face2face/test/983_113.mp4
+2024-03-02 17:20:57,474 - INFO - Current time: 2024-03-02 17:20:57
+2024-03-02 17:20:57,476 - INFO - Current time: 2024-03-02 17:20:57
+2024-03-02 17:20:57,476 - INFO - Current time: 2024-03-02 17:20:57
+2024-03-02 17:20:57,476 - INFO - Current time: 2024-03-02 17:20:57
+2024-03-02 17:20:57,476 - INFO - Current time: 2024-03-02 17:20:57
+2024-03-02 17:20:57,476 - INFO - Current time: 2024-03-02 17:20:57
+2024-03-02 17:20:57,476 - INFO - Current time: 2024-03-02 17:20:57
+2024-03-02 17:20:57,476 - INFO - Current time: 2024-03-02 17:20:57
+2024-03-02 17:20:57,476 - INFO - Current time: 2024-03-02 17:20:57
+2024-03-02 17:20:57,477 - INFO - Total time taken: 0.04 minutes
+2024-03-02 17:20:57,480 - INFO - 10 videos found in /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/face2face/val
+2024-03-02 17:20:58,123 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/face2face/val/146_256.mp4
+2024-03-02 17:20:58,381 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/face2face/val/329_327.mp4
+2024-03-02 17:20:58,381 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/face2face/val/238_282.mp4
+2024-03-02 17:20:59,426 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/face2face/val/331_260.mp4
+2024-03-02 17:20:59,886 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/face2face/val/606_567.mp4
+2024-03-02 17:20:59,991 - INFO - Current time: 2024-03-02 17:20:59
+2024-03-02 17:20:59,994 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/face2face/val/721_715.mp4
+2024-03-02 17:20:59,997 - INFO - Current time: 2024-03-02 17:20:59
+2024-03-02 17:20:59,997 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/face2face/val/432_357.mp4
+2024-03-02 17:20:59,997 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/face2face/val/656_666.mp4
+2024-03-02 17:21:00,000 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/face2face/val/790_014.mp4
+2024-03-02 17:21:00,000 - INFO - Current time: 2024-03-02 17:21:00
+2024-03-02 17:21:00,000 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/face2face/val/927_912.mp4
+2024-03-02 17:21:00,011 - INFO - Current time: 2024-03-02 17:21:00
+2024-03-02 17:21:00,014 - INFO - Current time: 2024-03-02 17:21:00
+2024-03-02 17:21:00,014 - INFO - Current time: 2024-03-02 17:21:00
+2024-03-02 17:21:00,014 - INFO - Current time: 2024-03-02 17:21:00
+2024-03-02 17:21:00,014 - INFO - Current time: 2024-03-02 17:21:00
+2024-03-02 17:21:00,014 - INFO - Current time: 2024-03-02 17:21:00
+2024-03-02 17:21:00,014 - INFO - Current time: 2024-03-02 17:21:00
+2024-03-02 17:21:00,015 - INFO - Total time taken: 0.04 minutes
+2024-03-02 17:21:00,019 - INFO - 10 videos found in /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceshifter/train
+2024-03-02 17:21:01,315 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceshifter/train/223_586.mp4
+2024-03-02 17:21:01,418 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceshifter/train/045_889.mp4
+2024-03-02 17:21:01,583 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceshifter/train/284_263.mp4
+2024-03-02 17:21:01,933 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceshifter/train/546_621.mp4
+2024-03-02 17:21:02,296 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceshifter/train/305_513.mp4
+2024-03-02 17:21:02,296 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceshifter/train/894_848.mp4
+2024-03-02 17:21:02,445 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceshifter/train/576_155.mp4
+2024-03-02 17:21:02,445 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceshifter/train/311_387.mp4
+2024-03-02 17:21:02,546 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceshifter/train/924_917.mp4
+2024-03-02 17:21:02,549 - INFO - Current time: 2024-03-02 17:21:02
+2024-03-02 17:21:02,552 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceshifter/train/959_957.mp4
+2024-03-02 17:21:02,570 - INFO - Current time: 2024-03-02 17:21:02
+2024-03-02 17:21:02,573 - INFO - Current time: 2024-03-02 17:21:02
+2024-03-02 17:21:02,573 - INFO - Current time: 2024-03-02 17:21:02
+2024-03-02 17:21:02,573 - INFO - Current time: 2024-03-02 17:21:02
+2024-03-02 17:21:02,573 - INFO - Current time: 2024-03-02 17:21:02
+2024-03-02 17:21:02,573 - INFO - Current time: 2024-03-02 17:21:02
+2024-03-02 17:21:02,573 - INFO - Current time: 2024-03-02 17:21:02
+2024-03-02 17:21:02,573 - INFO - Current time: 2024-03-02 17:21:02
+2024-03-02 17:21:02,573 - INFO - Current time: 2024-03-02 17:21:02
+2024-03-02 17:21:02,574 - INFO - Total time taken: 0.04 minutes
+2024-03-02 17:21:02,577 - INFO - 10 videos found in /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceshifter/test
+2024-03-02 17:21:03,480 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceshifter/test/249_280.mp4
+2024-03-02 17:21:03,637 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceshifter/test/213_083.mp4
+2024-03-02 17:21:03,640 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceshifter/test/640_638.mp4
+2024-03-02 17:21:04,084 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceshifter/test/770_791.mp4
+2024-03-02 17:21:04,236 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceshifter/test/755_759.mp4
+2024-03-02 17:21:04,834 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceshifter/test/834_852.mp4
+2024-03-02 17:21:04,834 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceshifter/test/807_273.mp4
+2024-03-02 17:21:04,988 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceshifter/test/918_934.mp4
+2024-03-02 17:21:04,988 - INFO - Current time: 2024-03-02 17:21:04
+2024-03-02 17:21:04,994 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceshifter/test/970_973.mp4
+2024-03-02 17:21:05,097 - INFO - Current time: 2024-03-02 17:21:05
+2024-03-02 17:21:05,097 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceshifter/test/975_978.mp4
+2024-03-02 17:21:05,101 - INFO - Current time: 2024-03-02 17:21:05
+2024-03-02 17:21:05,104 - INFO - Current time: 2024-03-02 17:21:05
+2024-03-02 17:21:05,104 - INFO - Current time: 2024-03-02 17:21:05
+2024-03-02 17:21:05,104 - INFO - Current time: 2024-03-02 17:21:05
+2024-03-02 17:21:05,104 - INFO - Current time: 2024-03-02 17:21:05
+2024-03-02 17:21:05,104 - INFO - Current time: 2024-03-02 17:21:05
+2024-03-02 17:21:05,104 - INFO - Current time: 2024-03-02 17:21:05
+2024-03-02 17:21:05,104 - INFO - Current time: 2024-03-02 17:21:05
+2024-03-02 17:21:05,104 - INFO - Total time taken: 0.04 minutes
+2024-03-02 17:21:05,108 - INFO - 10 videos found in /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceshifter/val
+2024-03-02 17:21:06,047 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceshifter/val/083_213.mp4
+2024-03-02 17:21:06,588 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceshifter/val/089_065.mp4
+2024-03-02 17:21:06,588 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceshifter/val/087_081.mp4
+2024-03-02 17:21:06,588 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceshifter/val/251_375.mp4
+2024-03-02 17:21:06,862 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceshifter/val/108_052.mp4
+2024-03-02 17:21:07,567 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceshifter/val/327_329.mp4
+2024-03-02 17:21:07,773 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceshifter/val/280_249.mp4
+2024-03-02 17:21:07,773 - INFO - Current time: 2024-03-02 17:21:07
+2024-03-02 17:21:07,773 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceshifter/val/578_636.mp4
+2024-03-02 17:21:07,780 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceshifter/val/722_458.mp4
+2024-03-02 17:21:07,780 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceshifter/val/592_500.mp4
+2024-03-02 17:21:07,781 - INFO - Current time: 2024-03-02 17:21:07
+2024-03-02 17:21:07,791 - INFO - Current time: 2024-03-02 17:21:07
+2024-03-02 17:21:07,791 - INFO - Current time: 2024-03-02 17:21:07
+2024-03-02 17:21:07,791 - INFO - Current time: 2024-03-02 17:21:07
+2024-03-02 17:21:07,791 - INFO - Current time: 2024-03-02 17:21:07
+2024-03-02 17:21:07,791 - INFO - Current time: 2024-03-02 17:21:07
+2024-03-02 17:21:07,791 - INFO - Current time: 2024-03-02 17:21:07
+2024-03-02 17:21:07,791 - INFO - Current time: 2024-03-02 17:21:07
+2024-03-02 17:21:07,791 - INFO - Current time: 2024-03-02 17:21:07
+2024-03-02 17:21:07,791 - INFO - Total time taken: 0.04 minutes
+2024-03-02 17:21:07,795 - INFO - 10 videos found in /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceswap/train
+2024-03-02 17:21:09,010 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceswap/train/000_003.mp4
+2024-03-02 17:21:09,269 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceswap/train/111_094.mp4
+2024-03-02 17:21:09,269 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceswap/train/263_284.mp4
+2024-03-02 17:21:09,533 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceswap/train/473_366.mp4
+2024-03-02 17:21:09,635 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceswap/train/631_551.mp4
+2024-03-02 17:21:09,635 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceswap/train/548_632.mp4
+2024-03-02 17:21:10,072 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceswap/train/652_773.mp4
+2024-03-02 17:21:10,429 - INFO - Current time: 2024-03-02 17:21:10
+2024-03-02 17:21:10,429 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceswap/train/789_753.mp4
+2024-03-02 17:21:10,432 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceswap/train/715_721.mp4
+2024-03-02 17:21:10,436 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceswap/train/824_419.mp4
+2024-03-02 17:21:10,442 - INFO - Current time: 2024-03-02 17:21:10
+2024-03-02 17:21:10,453 - INFO - Current time: 2024-03-02 17:21:10
+2024-03-02 17:21:10,453 - INFO - Current time: 2024-03-02 17:21:10
+2024-03-02 17:21:10,453 - INFO - Current time: 2024-03-02 17:21:10
+2024-03-02 17:21:10,453 - INFO - Current time: 2024-03-02 17:21:10
+2024-03-02 17:21:10,453 - INFO - Current time: 2024-03-02 17:21:10
+2024-03-02 17:21:10,454 - INFO - Current time: 2024-03-02 17:21:10
+2024-03-02 17:21:10,454 - INFO - Current time: 2024-03-02 17:21:10
+2024-03-02 17:21:10,454 - INFO - Current time: 2024-03-02 17:21:10
+2024-03-02 17:21:10,454 - INFO - Total time taken: 0.04 minutes
+2024-03-02 17:21:10,456 - INFO - 9 videos found in /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceswap/test
+2024-03-02 17:21:11,119 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceswap/test/252_266.mp4
+2024-03-02 17:21:11,380 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceswap/test/524_580.mp4
+2024-03-02 17:21:11,630 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceswap/test/608_675.mp4
+2024-03-02 17:21:11,993 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceswap/test/663_231.mp4
+2024-03-02 17:21:12,145 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceswap/test/807_273.mp4
+2024-03-02 17:21:12,148 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceswap/test/834_852.mp4
+2024-03-02 17:21:12,569 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceswap/test/928_160.mp4
+2024-03-02 17:21:12,776 - INFO - Current time: 2024-03-02 17:21:12
+2024-03-02 17:21:12,779 - INFO - Current time: 2024-03-02 17:21:12
+2024-03-02 17:21:12,779 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceswap/test/971_564.mp4
+2024-03-02 17:21:12,779 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceswap/test/975_978.mp4
+2024-03-02 17:21:12,779 - INFO - Current time: 2024-03-02 17:21:12
+2024-03-02 17:21:12,786 - INFO - Current time: 2024-03-02 17:21:12
+2024-03-02 17:21:12,786 - INFO - Current time: 2024-03-02 17:21:12
+2024-03-02 17:21:12,786 - INFO - Current time: 2024-03-02 17:21:12
+2024-03-02 17:21:12,786 - INFO - Current time: 2024-03-02 17:21:12
+2024-03-02 17:21:12,786 - INFO - Current time: 2024-03-02 17:21:12
+2024-03-02 17:21:12,786 - INFO - Current time: 2024-03-02 17:21:12
+2024-03-02 17:21:12,786 - INFO - Total time taken: 0.04 minutes
+2024-03-02 17:21:12,790 - INFO - 10 videos found in /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceswap/val
+2024-03-02 17:21:13,719 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceswap/val/251_375.mp4
+2024-03-02 17:21:13,819 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceswap/val/358_380.mp4
+2024-03-02 17:21:14,075 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceswap/val/501_326.mp4
+2024-03-02 17:21:14,075 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceswap/val/722_458.mp4
+2024-03-02 17:21:14,231 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceswap/val/772_708.mp4
+2024-03-02 17:21:15,003 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceswap/val/869_780.mp4
+2024-03-02 17:21:15,003 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceswap/val/931_936.mp4
+2024-03-02 17:21:15,003 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceswap/val/799_809.mp4
+2024-03-02 17:21:15,354 - INFO - Current time: 2024-03-02 17:21:15
+2024-03-02 17:21:15,360 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceswap/val/960_999.mp4
+2024-03-02 17:21:15,360 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceswap/val/968_884.mp4
+2024-03-02 17:21:15,360 - INFO - Current time: 2024-03-02 17:21:15
+2024-03-02 17:21:15,364 - INFO - Current time: 2024-03-02 17:21:15
+2024-03-02 17:21:15,364 - INFO - Current time: 2024-03-02 17:21:15
+2024-03-02 17:21:15,365 - INFO - Current time: 2024-03-02 17:21:15
+2024-03-02 17:21:15,365 - INFO - Current time: 2024-03-02 17:21:15
+2024-03-02 17:21:15,365 - INFO - Current time: 2024-03-02 17:21:15
+2024-03-02 17:21:15,365 - INFO - Current time: 2024-03-02 17:21:15
+2024-03-02 17:21:15,365 - INFO - Current time: 2024-03-02 17:21:15
+2024-03-02 17:21:15,365 - INFO - Current time: 2024-03-02 17:21:15
+2024-03-02 17:21:15,365 - INFO - Total time taken: 0.04 minutes
+2024-03-02 17:21:15,369 - INFO - 10 videos found in /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/neuraltextures/train
+2024-03-02 17:21:16,288 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/neuraltextures/train/122_144.mp4
+2024-03-02 17:21:16,542 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/neuraltextures/train/438_434.mp4
+2024-03-02 17:21:16,542 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/neuraltextures/train/133_148.mp4
+2024-03-02 17:21:16,821 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/neuraltextures/train/599_585.mp4
+2024-03-02 17:21:16,921 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/neuraltextures/train/600_505.mp4
+2024-03-02 17:21:17,724 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/neuraltextures/train/759_755.mp4
+2024-03-02 17:21:17,827 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/neuraltextures/train/654_648.mp4
+2024-03-02 17:21:17,827 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/neuraltextures/train/704_723.mp4
+2024-03-02 17:21:17,933 - INFO - Current time: 2024-03-02 17:21:17
+2024-03-02 17:21:17,940 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/neuraltextures/train/860_905.mp4
+2024-03-02 17:21:17,940 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/neuraltextures/train/879_963.mp4
+2024-03-02 17:21:17,943 - INFO - Current time: 2024-03-02 17:21:17
+2024-03-02 17:21:17,950 - INFO - Current time: 2024-03-02 17:21:17
+2024-03-02 17:21:17,950 - INFO - Current time: 2024-03-02 17:21:17
+2024-03-02 17:21:17,950 - INFO - Current time: 2024-03-02 17:21:17
+2024-03-02 17:21:17,950 - INFO - Current time: 2024-03-02 17:21:17
+2024-03-02 17:21:17,950 - INFO - Current time: 2024-03-02 17:21:17
+2024-03-02 17:21:17,950 - INFO - Current time: 2024-03-02 17:21:17
+2024-03-02 17:21:17,950 - INFO - Current time: 2024-03-02 17:21:17
+2024-03-02 17:21:17,950 - INFO - Current time: 2024-03-02 17:21:17
+2024-03-02 17:21:17,950 - INFO - Total time taken: 0.04 minutes
+2024-03-02 17:21:17,954 - INFO - 10 videos found in /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/neuraltextures/test
+2024-03-02 17:21:19,266 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/neuraltextures/test/134_192.mp4
+2024-03-02 17:21:19,532 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/neuraltextures/test/334_318.mp4
+2024-03-02 17:21:19,536 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/neuraltextures/test/010_005.mp4
+2024-03-02 17:21:19,888 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/neuraltextures/test/434_438.mp4
+2024-03-02 17:21:19,888 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/neuraltextures/test/159_175.mp4
+2024-03-02 17:21:20,321 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/neuraltextures/test/490_534.mp4
+2024-03-02 17:21:20,528 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/neuraltextures/test/803_017.mp4
+2024-03-02 17:21:20,529 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/neuraltextures/test/504_502.mp4
+2024-03-02 17:21:20,529 - INFO - Current time: 2024-03-02 17:21:20
+2024-03-02 17:21:20,535 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/neuraltextures/test/977_075.mp4
+2024-03-02 17:21:20,535 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/neuraltextures/test/983_113.mp4
+2024-03-02 17:21:20,542 - INFO - Current time: 2024-03-02 17:21:20
+2024-03-02 17:21:20,548 - INFO - Current time: 2024-03-02 17:21:20
+2024-03-02 17:21:20,548 - INFO - Current time: 2024-03-02 17:21:20
+2024-03-02 17:21:20,548 - INFO - Current time: 2024-03-02 17:21:20
+2024-03-02 17:21:20,548 - INFO - Current time: 2024-03-02 17:21:20
+2024-03-02 17:21:20,548 - INFO - Current time: 2024-03-02 17:21:20
+2024-03-02 17:21:20,549 - INFO - Current time: 2024-03-02 17:21:20
+2024-03-02 17:21:20,549 - INFO - Current time: 2024-03-02 17:21:20
+2024-03-02 17:21:20,549 - INFO - Current time: 2024-03-02 17:21:20
+2024-03-02 17:21:20,549 - INFO - Total time taken: 0.04 minutes
+2024-03-02 17:21:20,552 - INFO - 10 videos found in /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/neuraltextures/val
+2024-03-02 17:21:21,867 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/neuraltextures/val/389_480.mp4
+2024-03-02 17:21:22,133 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/neuraltextures/val/108_052.mp4
+2024-03-02 17:21:22,133 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/neuraltextures/val/445_494.mp4
+2024-03-02 17:21:22,494 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/neuraltextures/val/722_458.mp4
+2024-03-02 17:21:22,887 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/neuraltextures/val/772_708.mp4
+2024-03-02 17:21:23,060 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/neuraltextures/val/832_762.mp4
+2024-03-02 17:21:23,060 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/neuraltextures/val/790_014.mp4
+2024-03-02 17:21:23,063 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/neuraltextures/val/841_639.mp4
+2024-03-02 17:21:23,167 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/neuraltextures/val/536_540.mp4
+2024-03-02 17:21:23,167 - INFO - Current time: 2024-03-02 17:21:23
+2024-03-02 17:21:23,179 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/neuraltextures/val/960_999.mp4
+2024-03-02 17:21:23,190 - INFO - Current time: 2024-03-02 17:21:23
+2024-03-02 17:21:23,193 - INFO - Current time: 2024-03-02 17:21:23
+2024-03-02 17:21:23,194 - INFO - Current time: 2024-03-02 17:21:23
+2024-03-02 17:21:23,194 - INFO - Current time: 2024-03-02 17:21:23
+2024-03-02 17:21:23,194 - INFO - Current time: 2024-03-02 17:21:23
+2024-03-02 17:21:23,194 - INFO - Current time: 2024-03-02 17:21:23
+2024-03-02 17:21:23,194 - INFO - Current time: 2024-03-02 17:21:23
+2024-03-02 17:21:23,194 - INFO - Current time: 2024-03-02 17:21:23
+2024-03-02 17:21:23,194 - INFO - Current time: 2024-03-02 17:21:23
+2024-03-02 17:21:23,194 - INFO - Total time taken: 0.04 minutes
+2024-03-02 17:21:23,194 - INFO - Face cropping complete!
+2024-03-02 17:27:18,534 - INFO - 9 videos found in /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/actors/train
+2024-03-02 17:27:19,209 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/actors/train/01__walking_and_outside_surprised.mp4
+2024-03-02 17:27:19,617 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/actors/train/06__walking_and_outside_surprised.mp4
+2024-03-02 17:27:20,073 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/actors/train/08__exit_phone_room.mp4
+2024-03-02 17:27:20,074 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/actors/train/17__talking_angry_couch.mp4
+2024-03-02 17:27:20,081 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/actors/train/21__exit_phone_room.mp4
+2024-03-02 17:27:20,081 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/actors/train/11__secret_conversation.mp4
+2024-03-02 17:27:20,752 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/actors/train/22__walking_and_outside_surprised.mp4
+2024-03-02 17:27:20,862 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/actors/train/28__podium_speech_happy.mp4
+2024-03-02 17:27:20,862 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/actors/train/24__exit_phone_room.mp4
+2024-03-02 17:27:20,881 - INFO - Current time: 2024-03-02 17:27:20
+2024-03-02 17:27:20,881 - INFO - Current time: 2024-03-02 17:27:20
+2024-03-02 17:27:20,881 - INFO - Current time: 2024-03-02 17:27:20
+2024-03-02 17:27:20,881 - INFO - Current time: 2024-03-02 17:27:20
+2024-03-02 17:27:20,881 - INFO - Current time: 2024-03-02 17:27:20
+2024-03-02 17:27:20,881 - INFO - Current time: 2024-03-02 17:27:20
+2024-03-02 17:27:20,881 - INFO - Current time: 2024-03-02 17:27:20
+2024-03-02 17:27:20,881 - INFO - Current time: 2024-03-02 17:27:20
+2024-03-02 17:27:20,881 - INFO - Current time: 2024-03-02 17:27:20
+2024-03-02 17:27:20,881 - INFO - Total time taken: 0.04 minutes
+2024-03-02 17:27:20,882 - INFO - 9 videos found in /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/actors/test
+2024-03-02 17:27:22,211 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/actors/test/06__podium_speech_happy.mp4
+2024-03-02 17:27:22,319 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/actors/test/06__kitchen_still.mp4
+2024-03-02 17:27:22,741 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/actors/test/06__talking_against_wall.mp4
+2024-03-02 17:27:22,999 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/actors/test/17__hugging_happy.mp4
+2024-03-02 17:27:23,208 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/actors/test/15__exit_phone_room.mp4
+2024-03-02 17:27:23,208 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/actors/test/12__outside_talking_still_laughing.mp4
+2024-03-02 17:27:23,212 - INFO - Current time: 2024-03-02 17:27:23
+2024-03-02 17:27:23,217 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/actors/test/22__outside_talking_still_laughing.mp4
+2024-03-02 17:27:23,217 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/actors/test/20__talking_against_wall.mp4
+2024-03-02 17:27:23,217 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/actors/test/19__talking_angry_couch.mp4
+2024-03-02 17:27:23,217 - INFO - Current time: 2024-03-02 17:27:23
+2024-03-02 17:27:23,228 - INFO - Current time: 2024-03-02 17:27:23
+2024-03-02 17:27:23,228 - INFO - Current time: 2024-03-02 17:27:23
+2024-03-02 17:27:23,228 - INFO - Current time: 2024-03-02 17:27:23
+2024-03-02 17:27:23,228 - INFO - Current time: 2024-03-02 17:27:23
+2024-03-02 17:27:23,228 - INFO - Current time: 2024-03-02 17:27:23
+2024-03-02 17:27:23,228 - INFO - Current time: 2024-03-02 17:27:23
+2024-03-02 17:27:23,228 - INFO - Current time: 2024-03-02 17:27:23
+2024-03-02 17:27:23,228 - INFO - Total time taken: 0.04 minutes
+2024-03-02 17:27:23,229 - INFO - 9 videos found in /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/actors/val
+2024-03-02 17:27:24,138 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/actors/val/01__secret_conversation.mp4
+2024-03-02 17:27:24,394 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/actors/val/03__talking_angry_couch.mp4
+2024-03-02 17:27:24,645 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/actors/val/07__secret_conversation.mp4
+2024-03-02 17:27:24,649 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/actors/val/07__walking_outside_cafe_disgusted.mp4
+2024-03-02 17:27:25,405 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/actors/val/09__talking_against_wall.mp4
+2024-03-02 17:27:25,510 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/actors/val/15__talking_angry_couch.mp4
+2024-03-02 17:27:25,510 - INFO - Current time: 2024-03-02 17:27:25
+2024-03-02 17:27:25,513 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/actors/val/15__walking_outside_cafe_disgusted.mp4
+2024-03-02 17:27:25,517 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/actors/val/19__walking_outside_cafe_disgusted.mp4
+2024-03-02 17:27:25,517 - INFO - Current time: 2024-03-02 17:27:25
+2024-03-02 17:27:25,517 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/actors/val/27__exit_phone_room.mp4
+2024-03-02 17:27:25,524 - INFO - Current time: 2024-03-02 17:27:25
+2024-03-02 17:27:25,527 - INFO - Current time: 2024-03-02 17:27:25
+2024-03-02 17:27:25,527 - INFO - Current time: 2024-03-02 17:27:25
+2024-03-02 17:27:25,528 - INFO - Current time: 2024-03-02 17:27:25
+2024-03-02 17:27:25,528 - INFO - Current time: 2024-03-02 17:27:25
+2024-03-02 17:27:25,528 - INFO - Current time: 2024-03-02 17:27:25
+2024-03-02 17:27:25,528 - INFO - Current time: 2024-03-02 17:27:25
+2024-03-02 17:27:25,528 - INFO - Total time taken: 0.04 minutes
+2024-03-02 17:27:25,529 - INFO - 10 videos found in /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/youtube/train
+2024-03-02 17:27:26,785 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/youtube/train/031.mp4
+2024-03-02 17:27:26,946 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/youtube/train/187.mp4
+2024-03-02 17:27:26,946 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/youtube/train/091.mp4
+2024-03-02 17:27:27,203 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/youtube/train/111.mp4
+2024-03-02 17:27:27,203 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/youtube/train/196.mp4
+2024-03-02 17:27:27,555 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/youtube/train/250.mp4
+2024-03-02 17:27:27,720 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/youtube/train/268.mp4
+2024-03-02 17:27:27,720 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/youtube/train/602.mp4
+2024-03-02 17:27:28,071 - INFO - Current time: 2024-03-02 17:27:28
+2024-03-02 17:27:28,079 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/youtube/train/887.mp4
+2024-03-02 17:27:28,079 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/youtube/train/605.mp4
+2024-03-02 17:27:28,079 - INFO - Current time: 2024-03-02 17:27:28
+2024-03-02 17:27:28,085 - INFO - Current time: 2024-03-02 17:27:28
+2024-03-02 17:27:28,085 - INFO - Current time: 2024-03-02 17:27:28
+2024-03-02 17:27:28,085 - INFO - Current time: 2024-03-02 17:27:28
+2024-03-02 17:27:28,085 - INFO - Current time: 2024-03-02 17:27:28
+2024-03-02 17:27:28,085 - INFO - Current time: 2024-03-02 17:27:28
+2024-03-02 17:27:28,085 - INFO - Current time: 2024-03-02 17:27:28
+2024-03-02 17:27:28,085 - INFO - Current time: 2024-03-02 17:27:28
+2024-03-02 17:27:28,085 - INFO - Current time: 2024-03-02 17:27:28
+2024-03-02 17:27:28,086 - INFO - Total time taken: 0.04 minutes
+2024-03-02 17:27:28,086 - INFO - 10 videos found in /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/youtube/test
+2024-03-02 17:27:28,897 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/youtube/test/003.mp4
+2024-03-02 17:27:29,502 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/youtube/test/079.mp4
+2024-03-02 17:27:29,864 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/youtube/test/243.mp4
+2024-03-02 17:27:30,172 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/youtube/test/503.mp4
+2024-03-02 17:27:30,436 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/youtube/test/462.mp4
+2024-03-02 17:27:30,436 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/youtube/test/435.mp4
+2024-03-02 17:27:30,643 - INFO - Current time: 2024-03-02 17:27:30
+2024-03-02 17:27:30,646 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/youtube/test/748.mp4
+2024-03-02 17:27:30,650 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/youtube/test/700.mp4
+2024-03-02 17:27:30,654 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/youtube/test/590.mp4
+2024-03-02 17:27:30,654 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/youtube/test/778.mp4
+2024-03-02 17:27:30,657 - INFO - Current time: 2024-03-02 17:27:30
+2024-03-02 17:27:30,672 - INFO - Current time: 2024-03-02 17:27:30
+2024-03-02 17:27:30,672 - INFO - Current time: 2024-03-02 17:27:30
+2024-03-02 17:27:30,672 - INFO - Current time: 2024-03-02 17:27:30
+2024-03-02 17:27:30,672 - INFO - Current time: 2024-03-02 17:27:30
+2024-03-02 17:27:30,672 - INFO - Current time: 2024-03-02 17:27:30
+2024-03-02 17:27:30,672 - INFO - Current time: 2024-03-02 17:27:30
+2024-03-02 17:27:30,672 - INFO - Current time: 2024-03-02 17:27:30
+2024-03-02 17:27:30,672 - INFO - Current time: 2024-03-02 17:27:30
+2024-03-02 17:27:30,673 - INFO - Total time taken: 0.04 minutes
+2024-03-02 17:27:30,674 - INFO - 10 videos found in /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/youtube/val
+2024-03-02 17:27:32,074 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/youtube/val/082.mp4
+2024-03-02 17:27:32,231 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/youtube/val/356.mp4
+2024-03-02 17:27:32,487 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/youtube/val/314.mp4
+2024-03-02 17:27:32,487 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/youtube/val/239.mp4
+2024-03-02 17:27:32,990 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/youtube/val/399.mp4
+2024-03-02 17:27:33,193 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/youtube/val/772.mp4
+2024-03-02 17:27:33,194 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/youtube/val/421.mp4
+2024-03-02 17:27:33,194 - INFO - Current time: 2024-03-02 17:27:33
+2024-03-02 17:27:33,204 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/youtube/val/992.mp4
+2024-03-02 17:27:33,208 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/youtube/val/847.mp4
+2024-03-02 17:27:33,208 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/real/youtube/val/924.mp4
+2024-03-02 17:27:33,216 - INFO - Current time: 2024-03-02 17:27:33
+2024-03-02 17:27:33,226 - INFO - Current time: 2024-03-02 17:27:33
+2024-03-02 17:27:33,227 - INFO - Current time: 2024-03-02 17:27:33
+2024-03-02 17:27:33,227 - INFO - Current time: 2024-03-02 17:27:33
+2024-03-02 17:27:33,227 - INFO - Current time: 2024-03-02 17:27:33
+2024-03-02 17:27:33,227 - INFO - Current time: 2024-03-02 17:27:33
+2024-03-02 17:27:33,227 - INFO - Current time: 2024-03-02 17:27:33
+2024-03-02 17:27:33,227 - INFO - Current time: 2024-03-02 17:27:33
+2024-03-02 17:27:33,227 - INFO - Current time: 2024-03-02 17:27:33
+2024-03-02 17:27:33,227 - INFO - Total time taken: 0.04 minutes
+2024-03-02 17:27:33,228 - INFO - 10 videos found in /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/deepfakedetection/train
+2024-03-02 17:27:33,912 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/deepfakedetection/train/01_12__kitchen_pan__TNI7KUZ6.mp4
+2024-03-02 17:27:34,173 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/deepfakedetection/train/03_02__meeting_serious__ZESUJMM7.mp4
+2024-03-02 17:27:34,432 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/deepfakedetection/train/07_15__walk_down_hall_angry__9Z2MLKVX.mp4
+2024-03-02 17:27:35,091 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/deepfakedetection/train/09_13__talking_against_wall__LPT427RY.mp4
+2024-03-02 17:27:35,299 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/deepfakedetection/train/19_23__talking_angry_couch__WHQ1229T.mp4
+2024-03-02 17:27:35,462 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/deepfakedetection/train/22_10__walk_down_hall_angry__PUJR4HJ1.mp4
+2024-03-02 17:27:35,462 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/deepfakedetection/train/18_26__outside_talking_still_laughing__AI94QW74.mp4
+2024-03-02 17:27:35,462 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/deepfakedetection/train/26_06__walking_down_street_outside_angry__L5BVR5L9.mp4
+2024-03-02 17:27:35,825 - INFO - Current time: 2024-03-02 17:27:35
+2024-03-02 17:27:35,825 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/deepfakedetection/train/26_14__secret_conversation__ILLP29ZH.mp4
+2024-03-02 17:27:35,833 - INFO - Current time: 2024-03-02 17:27:35
+2024-03-02 17:27:35,834 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/deepfakedetection/train/26_18__walk_down_hall_angry__UMEX6HWU.mp4
+2024-03-02 17:27:35,836 - INFO - Current time: 2024-03-02 17:27:35
+2024-03-02 17:27:35,839 - INFO - Current time: 2024-03-02 17:27:35
+2024-03-02 17:27:35,839 - INFO - Current time: 2024-03-02 17:27:35
+2024-03-02 17:27:35,839 - INFO - Current time: 2024-03-02 17:27:35
+2024-03-02 17:27:35,839 - INFO - Current time: 2024-03-02 17:27:35
+2024-03-02 17:27:35,839 - INFO - Current time: 2024-03-02 17:27:35
+2024-03-02 17:27:35,839 - INFO - Current time: 2024-03-02 17:27:35
+2024-03-02 17:27:35,839 - INFO - Current time: 2024-03-02 17:27:35
+2024-03-02 17:27:35,839 - INFO - Total time taken: 0.04 minutes
+2024-03-02 17:27:35,840 - INFO - 10 videos found in /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/deepfakedetection/test
+2024-03-02 17:27:36,742 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/deepfakedetection/test/02_07__walking_down_street_outside_angry__O4SXNLRL.mp4
+2024-03-02 17:27:37,166 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/deepfakedetection/test/07_02__walking_outside_cafe_disgusted__1H07DFQJ.mp4
+2024-03-02 17:27:37,169 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/deepfakedetection/test/11_18__walk_down_hall_angry__KLKJ9FPE.mp4
+2024-03-02 17:27:37,583 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/deepfakedetection/test/07_25__walking_outside_cafe_disgusted__PAE9HCA8.mp4
+2024-03-02 17:27:37,944 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/deepfakedetection/test/12_13__walk_down_hall_angry__N8IGC93J.mp4
+2024-03-02 17:27:38,303 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/deepfakedetection/test/12_26__talking_against_wall__OTKIGGFE.mp4
+2024-03-02 17:27:38,406 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/deepfakedetection/test/16_28__walking_outside_cafe_disgusted__R1QD0XDQ.mp4
+2024-03-02 17:27:38,406 - INFO - Current time: 2024-03-02 17:27:38
+2024-03-02 17:27:38,413 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/deepfakedetection/test/18_26__walk_down_hall_angry__AI94QW74.mp4
+2024-03-02 17:27:38,416 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/deepfakedetection/test/18_14__secret_conversation__MAEROFMR.mp4
+2024-03-02 17:27:38,416 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/deepfakedetection/test/12_21__secret_conversation__J54W3PV1.mp4
+2024-03-02 17:27:38,416 - INFO - Current time: 2024-03-02 17:27:38
+2024-03-02 17:27:38,428 - INFO - Current time: 2024-03-02 17:27:38
+2024-03-02 17:27:38,428 - INFO - Current time: 2024-03-02 17:27:38
+2024-03-02 17:27:38,428 - INFO - Current time: 2024-03-02 17:27:38
+2024-03-02 17:27:38,428 - INFO - Current time: 2024-03-02 17:27:38
+2024-03-02 17:27:38,428 - INFO - Current time: 2024-03-02 17:27:38
+2024-03-02 17:27:38,428 - INFO - Current time: 2024-03-02 17:27:38
+2024-03-02 17:27:38,428 - INFO - Current time: 2024-03-02 17:27:38
+2024-03-02 17:27:38,428 - INFO - Current time: 2024-03-02 17:27:38
+2024-03-02 17:27:38,428 - INFO - Total time taken: 0.04 minutes
+2024-03-02 17:27:38,429 - INFO - 10 videos found in /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/deepfakedetection/val
+2024-03-02 17:27:39,075 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/deepfakedetection/val/03_01__walking_and_outside_surprised__JZUXXFRB.mp4
+2024-03-02 17:27:39,326 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/deepfakedetection/val/03_20__walk_down_hall_angry__61SVZ2J7.mp4
+2024-03-02 17:27:39,736 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/deepfakedetection/val/07_14__walking_down_street_outside_angry__VOX29AK0.mp4
+2024-03-02 17:27:39,987 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/deepfakedetection/val/09_02__podium_speech_happy__9TDCEK1Q.mp4
+2024-03-02 17:27:40,347 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/deepfakedetection/val/23_22__kitchen_still__10R2HRAU.mp4
+2024-03-02 17:27:40,610 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/deepfakedetection/val/16_17__walking_down_indoor_hall_disgust__S7UMSIQV.mp4
+2024-03-02 17:27:40,610 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/deepfakedetection/val/25_07__outside_talking_pan_laughing__LZYKF7LK.mp4
+2024-03-02 17:27:40,870 - INFO - Current time: 2024-03-02 17:27:40
+2024-03-02 17:27:40,971 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/deepfakedetection/val/22_19__kitchen_still__VK6BF5NV.mp4
+2024-03-02 17:27:40,975 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/deepfakedetection/val/28_05__podium_speech_happy__VR9127O1.mp4
+2024-03-02 17:27:40,975 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/deepfakedetection/val/27_06__talking_against_wall__S3T7SK9O.mp4
+2024-03-02 17:27:40,975 - INFO - Current time: 2024-03-02 17:27:40
+2024-03-02 17:27:40,985 - INFO - Current time: 2024-03-02 17:27:40
+2024-03-02 17:27:40,985 - INFO - Current time: 2024-03-02 17:27:40
+2024-03-02 17:27:40,985 - INFO - Current time: 2024-03-02 17:27:40
+2024-03-02 17:27:40,985 - INFO - Current time: 2024-03-02 17:27:40
+2024-03-02 17:27:40,985 - INFO - Current time: 2024-03-02 17:27:40
+2024-03-02 17:27:40,985 - INFO - Current time: 2024-03-02 17:27:40
+2024-03-02 17:27:40,985 - INFO - Current time: 2024-03-02 17:27:40
+2024-03-02 17:27:40,985 - INFO - Current time: 2024-03-02 17:27:40
+2024-03-02 17:27:40,985 - INFO - Total time taken: 0.04 minutes
+2024-03-02 17:27:40,986 - INFO - 10 videos found in /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/face2face/train
+2024-03-02 17:27:42,663 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/face2face/train/264_271.mp4
+2024-03-02 17:27:43,244 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/face2face/train/100_077.mp4
+2024-03-02 17:27:43,244 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/face2face/train/314_347.mp4
+2024-03-02 17:27:43,511 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/face2face/train/407_374.mp4
+2024-03-02 17:27:43,511 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/face2face/train/561_998.mp4
+2024-03-02 17:27:43,511 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/face2face/train/343_363.mp4
+2024-03-02 17:27:43,517 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/face2face/train/527_454.mp4
+2024-03-02 17:27:43,517 - INFO - Current time: 2024-03-02 17:27:43
+2024-03-02 17:27:43,517 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/face2face/train/402_453.mp4
+2024-03-02 17:27:43,617 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/face2face/train/777_745.mp4
+2024-03-02 17:27:43,630 - INFO - Current time: 2024-03-02 17:27:43
+2024-03-02 17:27:43,630 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/face2face/train/978_975.mp4
+2024-03-02 17:27:43,639 - INFO - Current time: 2024-03-02 17:27:43
+2024-03-02 17:27:43,642 - INFO - Current time: 2024-03-02 17:27:43
+2024-03-02 17:27:43,642 - INFO - Current time: 2024-03-02 17:27:43
+2024-03-02 17:27:43,642 - INFO - Current time: 2024-03-02 17:27:43
+2024-03-02 17:27:43,642 - INFO - Current time: 2024-03-02 17:27:43
+2024-03-02 17:27:43,642 - INFO - Current time: 2024-03-02 17:27:43
+2024-03-02 17:27:43,642 - INFO - Current time: 2024-03-02 17:27:43
+2024-03-02 17:27:43,642 - INFO - Current time: 2024-03-02 17:27:43
+2024-03-02 17:27:43,642 - INFO - Total time taken: 0.04 minutes
+2024-03-02 17:27:43,643 - INFO - 10 videos found in /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/face2face/test
+2024-03-02 17:27:44,315 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/face2face/test/063_041.mp4
+2024-03-02 17:27:44,417 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/face2face/test/175_159.mp4
+2024-03-02 17:27:44,837 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/face2face/test/213_083.mp4
+2024-03-02 17:27:45,264 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/face2face/test/317_359.mp4
+2024-03-02 17:27:45,618 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/face2face/test/345_259.mp4
+2024-03-02 17:27:45,774 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/face2face/test/376_381.mp4
+2024-03-02 17:27:45,774 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/face2face/test/424_408.mp4
+2024-03-02 17:27:46,242 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/face2face/test/834_852.mp4
+2024-03-02 17:27:46,246 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/face2face/test/983_113.mp4
+2024-03-02 17:27:46,246 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/face2face/test/975_978.mp4
+2024-03-02 17:27:46,246 - INFO - Current time: 2024-03-02 17:27:46
+2024-03-02 17:27:46,261 - INFO - Current time: 2024-03-02 17:27:46
+2024-03-02 17:27:46,261 - INFO - Current time: 2024-03-02 17:27:46
+2024-03-02 17:27:46,261 - INFO - Current time: 2024-03-02 17:27:46
+2024-03-02 17:27:46,261 - INFO - Current time: 2024-03-02 17:27:46
+2024-03-02 17:27:46,261 - INFO - Current time: 2024-03-02 17:27:46
+2024-03-02 17:27:46,262 - INFO - Current time: 2024-03-02 17:27:46
+2024-03-02 17:27:46,262 - INFO - Current time: 2024-03-02 17:27:46
+2024-03-02 17:27:46,262 - INFO - Current time: 2024-03-02 17:27:46
+2024-03-02 17:27:46,262 - INFO - Current time: 2024-03-02 17:27:46
+2024-03-02 17:27:46,262 - INFO - Total time taken: 0.04 minutes
+2024-03-02 17:27:46,263 - INFO - 10 videos found in /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/face2face/val
+2024-03-02 17:27:47,167 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/face2face/val/238_282.mp4
+2024-03-02 17:27:47,417 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/face2face/val/146_256.mp4
+2024-03-02 17:27:47,835 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/face2face/val/331_260.mp4
+2024-03-02 17:27:47,835 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/face2face/val/329_327.mp4
+2024-03-02 17:27:48,454 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/face2face/val/606_567.mp4
+2024-03-02 17:27:48,619 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/face2face/val/432_357.mp4
+2024-03-02 17:27:48,622 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/face2face/val/656_666.mp4
+2024-03-02 17:27:48,827 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/face2face/val/721_715.mp4
+2024-03-02 17:27:48,827 - INFO - Current time: 2024-03-02 17:27:48
+2024-03-02 17:27:48,838 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/face2face/val/790_014.mp4
+2024-03-02 17:27:48,838 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/face2face/val/927_912.mp4
+2024-03-02 17:27:48,842 - INFO - Current time: 2024-03-02 17:27:48
+2024-03-02 17:27:48,848 - INFO - Current time: 2024-03-02 17:27:48
+2024-03-02 17:27:48,848 - INFO - Current time: 2024-03-02 17:27:48
+2024-03-02 17:27:48,848 - INFO - Current time: 2024-03-02 17:27:48
+2024-03-02 17:27:48,848 - INFO - Current time: 2024-03-02 17:27:48
+2024-03-02 17:27:48,848 - INFO - Current time: 2024-03-02 17:27:48
+2024-03-02 17:27:48,848 - INFO - Current time: 2024-03-02 17:27:48
+2024-03-02 17:27:48,849 - INFO - Current time: 2024-03-02 17:27:48
+2024-03-02 17:27:48,849 - INFO - Current time: 2024-03-02 17:27:48
+2024-03-02 17:27:48,849 - INFO - Total time taken: 0.04 minutes
+2024-03-02 17:27:48,850 - INFO - 10 videos found in /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceshifter/train
+2024-03-02 17:27:49,904 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceshifter/train/045_889.mp4
+2024-03-02 17:27:49,904 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceshifter/train/223_586.mp4
+2024-03-02 17:27:50,407 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceshifter/train/284_263.mp4
+2024-03-02 17:27:50,510 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceshifter/train/311_387.mp4
+2024-03-02 17:27:50,670 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceshifter/train/305_513.mp4
+2024-03-02 17:27:51,029 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceshifter/train/546_621.mp4
+2024-03-02 17:27:51,382 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceshifter/train/924_917.mp4
+2024-03-02 17:27:51,382 - INFO - Current time: 2024-03-02 17:27:51
+2024-03-02 17:27:51,382 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceshifter/train/894_848.mp4
+2024-03-02 17:27:51,385 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceshifter/train/576_155.mp4
+2024-03-02 17:27:51,385 - INFO - Current time: 2024-03-02 17:27:51
+2024-03-02 17:27:51,388 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceshifter/train/959_957.mp4
+2024-03-02 17:27:51,391 - INFO - Current time: 2024-03-02 17:27:51
+2024-03-02 17:27:51,394 - INFO - Current time: 2024-03-02 17:27:51
+2024-03-02 17:27:51,394 - INFO - Current time: 2024-03-02 17:27:51
+2024-03-02 17:27:51,394 - INFO - Current time: 2024-03-02 17:27:51
+2024-03-02 17:27:51,394 - INFO - Current time: 2024-03-02 17:27:51
+2024-03-02 17:27:51,394 - INFO - Current time: 2024-03-02 17:27:51
+2024-03-02 17:27:51,394 - INFO - Current time: 2024-03-02 17:27:51
+2024-03-02 17:27:51,394 - INFO - Current time: 2024-03-02 17:27:51
+2024-03-02 17:27:51,394 - INFO - Total time taken: 0.04 minutes
+2024-03-02 17:27:51,395 - INFO - 10 videos found in /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceshifter/test
+2024-03-02 17:27:52,859 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceshifter/test/213_083.mp4
+2024-03-02 17:27:53,125 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceshifter/test/249_280.mp4
+2024-03-02 17:27:53,377 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceshifter/test/770_791.mp4
+2024-03-02 17:27:53,377 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceshifter/test/807_273.mp4
+2024-03-02 17:27:53,539 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceshifter/test/640_638.mp4
+2024-03-02 17:27:53,539 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceshifter/test/834_852.mp4
+2024-03-02 17:27:53,890 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceshifter/test/755_759.mp4
+2024-03-02 17:27:53,992 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceshifter/test/918_934.mp4
+2024-03-02 17:27:53,992 - INFO - Current time: 2024-03-02 17:27:53
+2024-03-02 17:27:53,992 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceshifter/test/970_973.mp4
+2024-03-02 17:27:54,013 - INFO - Current time: 2024-03-02 17:27:54
+2024-03-02 17:27:54,016 - INFO - Current time: 2024-03-02 17:27:54
+2024-03-02 17:27:54,016 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceshifter/test/975_978.mp4
+2024-03-02 17:27:54,016 - INFO - Current time: 2024-03-02 17:27:54
+2024-03-02 17:27:54,020 - INFO - Current time: 2024-03-02 17:27:54
+2024-03-02 17:27:54,020 - INFO - Current time: 2024-03-02 17:27:54
+2024-03-02 17:27:54,020 - INFO - Current time: 2024-03-02 17:27:54
+2024-03-02 17:27:54,020 - INFO - Current time: 2024-03-02 17:27:54
+2024-03-02 17:27:54,020 - INFO - Current time: 2024-03-02 17:27:54
+2024-03-02 17:27:54,020 - INFO - Current time: 2024-03-02 17:27:54
+2024-03-02 17:27:54,020 - INFO - Total time taken: 0.04 minutes
+2024-03-02 17:27:54,021 - INFO - 10 videos found in /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceshifter/val
+2024-03-02 17:27:54,679 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceshifter/val/083_213.mp4
+2024-03-02 17:27:54,938 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceshifter/val/087_081.mp4
+2024-03-02 17:27:55,610 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceshifter/val/251_375.mp4
+2024-03-02 17:27:55,861 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceshifter/val/108_052.mp4
+2024-03-02 17:27:55,861 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceshifter/val/089_065.mp4
+2024-03-02 17:27:56,070 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceshifter/val/280_249.mp4
+2024-03-02 17:27:56,330 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceshifter/val/327_329.mp4
+2024-03-02 17:27:56,492 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceshifter/val/578_636.mp4
+2024-03-02 17:27:56,599 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceshifter/val/592_500.mp4
+2024-03-02 17:27:56,600 - INFO - Current time: 2024-03-02 17:27:56
+2024-03-02 17:27:56,603 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceshifter/val/722_458.mp4
+2024-03-02 17:27:56,611 - INFO - Current time: 2024-03-02 17:27:56
+2024-03-02 17:27:56,613 - INFO - Current time: 2024-03-02 17:27:56
+2024-03-02 17:27:56,613 - INFO - Current time: 2024-03-02 17:27:56
+2024-03-02 17:27:56,613 - INFO - Current time: 2024-03-02 17:27:56
+2024-03-02 17:27:56,613 - INFO - Current time: 2024-03-02 17:27:56
+2024-03-02 17:27:56,613 - INFO - Current time: 2024-03-02 17:27:56
+2024-03-02 17:27:56,613 - INFO - Current time: 2024-03-02 17:27:56
+2024-03-02 17:27:56,613 - INFO - Current time: 2024-03-02 17:27:56
+2024-03-02 17:27:56,614 - INFO - Current time: 2024-03-02 17:27:56
+2024-03-02 17:27:56,614 - INFO - Total time taken: 0.04 minutes
+2024-03-02 17:27:56,615 - INFO - 10 videos found in /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceswap/train
+2024-03-02 17:27:57,411 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceswap/train/000_003.mp4
+2024-03-02 17:27:57,612 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceswap/train/111_094.mp4
+2024-03-02 17:27:57,782 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceswap/train/263_284.mp4
+2024-03-02 17:27:58,364 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceswap/train/473_366.mp4
+2024-03-02 17:27:58,983 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceswap/train/548_632.mp4
+2024-03-02 17:27:59,199 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceswap/train/631_551.mp4
+2024-03-02 17:27:59,199 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceswap/train/789_753.mp4
+2024-03-02 17:27:59,199 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceswap/train/715_721.mp4
+2024-03-02 17:27:59,202 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceswap/train/652_773.mp4
+2024-03-02 17:27:59,202 - INFO - Current time: 2024-03-02 17:27:59
+2024-03-02 17:27:59,202 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceswap/train/824_419.mp4
+2024-03-02 17:27:59,216 - INFO - Current time: 2024-03-02 17:27:59
+2024-03-02 17:27:59,220 - INFO - Current time: 2024-03-02 17:27:59
+2024-03-02 17:27:59,220 - INFO - Current time: 2024-03-02 17:27:59
+2024-03-02 17:27:59,220 - INFO - Current time: 2024-03-02 17:27:59
+2024-03-02 17:27:59,220 - INFO - Current time: 2024-03-02 17:27:59
+2024-03-02 17:27:59,220 - INFO - Current time: 2024-03-02 17:27:59
+2024-03-02 17:27:59,220 - INFO - Current time: 2024-03-02 17:27:59
+2024-03-02 17:27:59,220 - INFO - Current time: 2024-03-02 17:27:59
+2024-03-02 17:27:59,220 - INFO - Current time: 2024-03-02 17:27:59
+2024-03-02 17:27:59,221 - INFO - Total time taken: 0.04 minutes
+2024-03-02 17:27:59,222 - INFO - 9 videos found in /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceswap/test
+2024-03-02 17:28:00,207 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceswap/test/524_580.mp4
+2024-03-02 17:28:00,355 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceswap/test/252_266.mp4
+2024-03-02 17:28:00,880 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceswap/test/807_273.mp4
+2024-03-02 17:28:01,292 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceswap/test/663_231.mp4
+2024-03-02 17:28:01,292 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceswap/test/608_675.mp4
+2024-03-02 17:28:01,391 - INFO - Current time: 2024-03-02 17:28:01
+2024-03-02 17:28:01,599 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceswap/test/928_160.mp4
+2024-03-02 17:28:01,603 - INFO - Current time: 2024-03-02 17:28:01
+2024-03-02 17:28:01,606 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceswap/test/975_978.mp4
+2024-03-02 17:28:01,606 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceswap/test/971_564.mp4
+2024-03-02 17:28:01,606 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceswap/test/834_852.mp4
+2024-03-02 17:28:01,606 - INFO - Current time: 2024-03-02 17:28:01
+2024-03-02 17:28:01,615 - INFO - Current time: 2024-03-02 17:28:01
+2024-03-02 17:28:01,615 - INFO - Current time: 2024-03-02 17:28:01
+2024-03-02 17:28:01,615 - INFO - Current time: 2024-03-02 17:28:01
+2024-03-02 17:28:01,615 - INFO - Current time: 2024-03-02 17:28:01
+2024-03-02 17:28:01,615 - INFO - Current time: 2024-03-02 17:28:01
+2024-03-02 17:28:01,615 - INFO - Current time: 2024-03-02 17:28:01
+2024-03-02 17:28:01,615 - INFO - Total time taken: 0.04 minutes
+2024-03-02 17:28:01,619 - INFO - 10 videos found in /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceswap/val
+2024-03-02 17:28:02,540 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceswap/val/251_375.mp4
+2024-03-02 17:28:03,110 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceswap/val/358_380.mp4
+2024-03-02 17:28:03,320 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceswap/val/722_458.mp4
+2024-03-02 17:28:03,632 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceswap/val/799_809.mp4
+2024-03-02 17:28:03,836 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceswap/val/501_326.mp4
+2024-03-02 17:28:04,091 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceswap/val/772_708.mp4
+2024-03-02 17:28:04,192 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceswap/val/960_999.mp4
+2024-03-02 17:28:04,195 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceswap/val/931_936.mp4
+2024-03-02 17:28:04,195 - INFO - Current time: 2024-03-02 17:28:04
+2024-03-02 17:28:04,195 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceswap/val/869_780.mp4
+2024-03-02 17:28:04,203 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/faceswap/val/968_884.mp4
+2024-03-02 17:28:04,211 - INFO - Current time: 2024-03-02 17:28:04
+2024-03-02 17:28:04,217 - INFO - Current time: 2024-03-02 17:28:04
+2024-03-02 17:28:04,217 - INFO - Current time: 2024-03-02 17:28:04
+2024-03-02 17:28:04,217 - INFO - Current time: 2024-03-02 17:28:04
+2024-03-02 17:28:04,217 - INFO - Current time: 2024-03-02 17:28:04
+2024-03-02 17:28:04,217 - INFO - Current time: 2024-03-02 17:28:04
+2024-03-02 17:28:04,217 - INFO - Current time: 2024-03-02 17:28:04
+2024-03-02 17:28:04,217 - INFO - Current time: 2024-03-02 17:28:04
+2024-03-02 17:28:04,217 - INFO - Current time: 2024-03-02 17:28:04
+2024-03-02 17:28:04,217 - INFO - Total time taken: 0.04 minutes
+2024-03-02 17:28:04,221 - INFO - 10 videos found in /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/neuraltextures/train
+2024-03-02 17:28:05,032 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/neuraltextures/train/122_144.mp4
+2024-03-02 17:28:05,482 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/neuraltextures/train/438_434.mp4
+2024-03-02 17:28:05,641 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/neuraltextures/train/599_585.mp4
+2024-03-02 17:28:05,641 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/neuraltextures/train/133_148.mp4
+2024-03-02 17:28:06,053 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/neuraltextures/train/600_505.mp4
+2024-03-02 17:28:06,407 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/neuraltextures/train/654_648.mp4
+2024-03-02 17:28:06,513 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/neuraltextures/train/759_755.mp4
+2024-03-02 17:28:06,763 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/neuraltextures/train/704_723.mp4
+2024-03-02 17:28:06,770 - INFO - Current time: 2024-03-02 17:28:06
+2024-03-02 17:28:06,774 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/neuraltextures/train/860_905.mp4
+2024-03-02 17:28:06,774 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/neuraltextures/train/879_963.mp4
+2024-03-02 17:28:06,774 - INFO - Current time: 2024-03-02 17:28:06
+2024-03-02 17:28:06,780 - INFO - Current time: 2024-03-02 17:28:06
+2024-03-02 17:28:06,781 - INFO - Current time: 2024-03-02 17:28:06
+2024-03-02 17:28:06,781 - INFO - Current time: 2024-03-02 17:28:06
+2024-03-02 17:28:06,781 - INFO - Current time: 2024-03-02 17:28:06
+2024-03-02 17:28:06,781 - INFO - Current time: 2024-03-02 17:28:06
+2024-03-02 17:28:06,781 - INFO - Current time: 2024-03-02 17:28:06
+2024-03-02 17:28:06,781 - INFO - Current time: 2024-03-02 17:28:06
+2024-03-02 17:28:06,781 - INFO - Current time: 2024-03-02 17:28:06
+2024-03-02 17:28:06,781 - INFO - Total time taken: 0.04 minutes
+2024-03-02 17:28:06,785 - INFO - 10 videos found in /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/neuraltextures/test
+2024-03-02 17:28:07,839 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/neuraltextures/test/134_192.mp4
+2024-03-02 17:28:07,939 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/neuraltextures/test/159_175.mp4
+2024-03-02 17:28:08,346 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/neuraltextures/test/010_005.mp4
+2024-03-02 17:28:08,746 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/neuraltextures/test/334_318.mp4
+2024-03-02 17:28:08,746 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/neuraltextures/test/490_534.mp4
+2024-03-02 17:28:08,922 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/neuraltextures/test/434_438.mp4
+2024-03-02 17:28:09,303 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/neuraltextures/test/977_075.mp4
+2024-03-02 17:28:09,410 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/neuraltextures/test/504_502.mp4
+2024-03-02 17:28:09,410 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/neuraltextures/test/803_017.mp4
+2024-03-02 17:28:09,410 - INFO - Current time: 2024-03-02 17:28:09
+2024-03-02 17:28:09,418 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/neuraltextures/test/983_113.mp4
+2024-03-02 17:28:09,428 - INFO - Current time: 2024-03-02 17:28:09
+2024-03-02 17:28:09,432 - INFO - Current time: 2024-03-02 17:28:09
+2024-03-02 17:28:09,432 - INFO - Current time: 2024-03-02 17:28:09
+2024-03-02 17:28:09,432 - INFO - Current time: 2024-03-02 17:28:09
+2024-03-02 17:28:09,432 - INFO - Current time: 2024-03-02 17:28:09
+2024-03-02 17:28:09,432 - INFO - Current time: 2024-03-02 17:28:09
+2024-03-02 17:28:09,432 - INFO - Current time: 2024-03-02 17:28:09
+2024-03-02 17:28:09,432 - INFO - Current time: 2024-03-02 17:28:09
+2024-03-02 17:28:09,432 - INFO - Current time: 2024-03-02 17:28:09
+2024-03-02 17:28:09,433 - INFO - Total time taken: 0.04 minutes
+2024-03-02 17:28:09,435 - INFO - 10 videos found in /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/neuraltextures/val
+2024-03-02 17:28:10,685 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/neuraltextures/val/108_052.mp4
+2024-03-02 17:28:10,844 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/neuraltextures/val/389_480.mp4
+2024-03-02 17:28:11,517 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/neuraltextures/val/722_458.mp4
+2024-03-02 17:28:11,521 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/neuraltextures/val/445_494.mp4
+2024-03-02 17:28:11,820 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/neuraltextures/val/536_540.mp4
+2024-03-02 17:28:11,922 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/neuraltextures/val/832_762.mp4
+2024-03-02 17:28:12,025 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/neuraltextures/val/772_708.mp4
+2024-03-02 17:28:12,028 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/neuraltextures/val/841_639.mp4
+2024-03-02 17:28:12,028 - INFO - Current time: 2024-03-02 17:28:12
+2024-03-02 17:28:12,028 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/neuraltextures/val/790_014.mp4
+2024-03-02 17:28:12,038 - ERROR - Failed to open /Users/jainavmutha/DeepfakeBench/datasets/FaceForensics++/fake/neuraltextures/val/960_999.mp4
+2024-03-02 17:28:12,050 - INFO - Current time: 2024-03-02 17:28:12
+2024-03-02 17:28:12,058 - INFO - Current time: 2024-03-02 17:28:12
+2024-03-02 17:28:12,058 - INFO - Current time: 2024-03-02 17:28:12
+2024-03-02 17:28:12,058 - INFO - Current time: 2024-03-02 17:28:12
+2024-03-02 17:28:12,058 - INFO - Current time: 2024-03-02 17:28:12
+2024-03-02 17:28:12,058 - INFO - Current time: 2024-03-02 17:28:12
+2024-03-02 17:28:12,058 - INFO - Current time: 2024-03-02 17:28:12
+2024-03-02 17:28:12,058 - INFO - Current time: 2024-03-02 17:28:12
+2024-03-02 17:28:12,058 - INFO - Current time: 2024-03-02 17:28:12
+2024-03-02 17:28:12,058 - INFO - Total time taken: 0.04 minutes
+2024-03-02 17:28:12,058 - INFO - Face cropping complete!

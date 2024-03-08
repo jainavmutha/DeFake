@@ -62,6 +62,8 @@ def prepare_testing_data(config):
         config = config.copy()  # create a copy of config to avoid altering the original one
         config['test_dataset'] = test_name  # specify the current test dataset
         test_set = DeepfakeAbstractBaseDataset(
+                root_dir = '/Users/jainavmutha/DeepfakeBench/datasets/', 
+                image_file_path = '/Users/jainavmutha/DeepfakeBench/training/copied_image_paths.csv',
                 config=config,
                 mode='test', 
             )
@@ -73,6 +75,7 @@ def prepare_testing_data(config):
                 num_workers=int(config['workers']),
                 collate_fn=test_set.collate_fn,
             )
+        print('devika')
         return test_data_loader
 
     test_data_loaders = {}
@@ -89,17 +92,15 @@ def choose_metric(config):
 
 
 def test_one_dataset(model, data_loader):
-    for i, data_dict in tqdm(enumerate(data_loader), total=len(data_loader)):
-        # get data
-        data, label, mask, landmark = \
-        data_dict['image'], data_dict['label'], data_dict['mask'], data_dict['landmark']
     
+    for data_dict in enumerate((data_loader), len(data_loader)):
+        # get data
+        print('DHARMIKMAGGIE')
+        data, label = \
+        data_dict['image'], data_dict['label']
+
         # move data to GPU
         data_dict['image'], data_dict['label'] = data.to(device), label.to(device)
-        if mask is not None:
-            data_dict['mask'] = mask.to(device)
-        if landmark is not None:
-            data_dict['landmark'] = landmark.to(device)
 
         # model forward without considering gradient computation
         predictions = inference(model, data_dict)
@@ -117,12 +118,13 @@ def test_epoch(model, test_data_loaders):
 
     # define test recorder
     metrics_all_datasets = {}
-
+    print('Ranga')
     # testing for all test data
     keys = test_data_loaders.keys()
     for key in keys:
+        print('RANGA')
         # compute loss for each dataset
-        predictions = test_one_dataset(model, test_data_loaders[key])
+        predictions = test_one_dataset(model, test_data_loaders[key]) # ERRORRRRRRRRR HERE
         
         # compute metric for each dataset
         metric_one_dataset = model.get_test_metrics()

@@ -2,7 +2,7 @@
 # email: zhiyuanyan@link.cuhk.edu.cn
 # date: 2023-03-30
 # description: Abstract Base Class for all types of deepfake datasets.
-
+'''
 import sys
 sys.path.append('.')
 
@@ -428,16 +428,26 @@ if __name__ == "__main__":
         
 '''
 import os
+import math
+import yaml
+import glob
+import json
 import pandas as pd
+
+import numpy as np
+from copy import deepcopy
+import cv2
+import random
 from PIL import Image
-from torch.utils.data import Dataset, DataLoader
+from collections import defaultdict
+
+import torch
+from torch.autograd import Variable
+from torch.utils import data
+from torchvision import transforms as T
+
 import albumentations as A
 from albumentations.pytorch.transforms import ToTensorV2
-import cv2
-import numpy as np
-import torch
-from tqdm import tqdm
-import yaml
 
 class IsotropicResize(A.DualTransform):
     def __init__(self, max_side, interpolation_down=cv2.INTER_AREA, interpolation_up=cv2.INTER_CUBIC,
@@ -465,7 +475,7 @@ def isotropically_resize_image(img, size, interpolation_down=cv2.INTER_AREA, int
         img = cv2.resize(img, (int(w / h * size), size), interpolation=interpolation_up)
     return cv2.resize(img, (size, size), interpolation=interpolation_down)
 
-class CustomDataset(Dataset):
+class CustomDataset(data.Dataset):
     def __init__(self, root_dir, image_file_path, transform=None, max_side=256):
         self.root_dir = root_dir
         self.image_paths = pd.read_csv(image_file_path, header=None).squeeze("columns").tolist()
@@ -495,22 +505,133 @@ class CustomDataset(Dataset):
 
         return {'image': img_array, 'label': label}
 
-# Integrate Custom Dataset into DeepfakeAbstractBaseDataset
-class DeepfakeAbstractBaseDataset(Dataset):
-    def __init__(self, config=None, mode='train', root_dir=None, image_file_path=None):
-        # Your existing code here...
+class DeepfakeAbstractBaseDataset(data.Dataset):
+    def __init__(self, root_dir, image_file_path, transform=None, config=None, mode='test'):
+        self.root_dir = root_dir
+        self.image_paths = pd.read_csv(image_file_path, header=None).squeeze("columns").tolist()
+        self.transform = transform
+        self.max_side = 256
+        self.config = config
+        self.mode = mode
 
-        # Use CustomDataset for data loading
-        self.dataset = CustomDataset(root_dir=root_dir, image_file_path=image_file_path, transform=None)
-
-    # Modify __len__ and __getitem__ to delegate to CustomDataset
     def __len__(self):
-        return len(self.dataset)
+        return len(self.image_paths)
+
+    def load_rgb(self, file_path):
+        img = cv2.imread(file_path)
+        if img is None:
+            raise ValueError('Loaded image is None: {}'.format(file_path))
+
+        img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
+        img = cv2.resize(img, (self.max_side, self.max_side), interpolation=cv2.INTER_CUBIC)
+        return Image.fromarray(np.array(img, dtype=np.uint8))
+
+    def load_mask(self, file_path):
+        if file_path is None:
+            return np.zeros((self.max_side, self.max_side, 1))
+        if os.path.exists(file_path):
+            mask = cv2.imread(file_path, 0)
+            if mask is None:
+                mask = np.zeros((self.max_side, self.max_side))
+            mask = cv2.resize(mask, (self.max_side, self.max_side))/255
+            mask = np.expand_dims(mask, axis=2)
+            return np.float32(mask)
+        else:
+            return np.zeros((self.max_side, self.max_side, 1))
+
+    def load_landmark(self, file_path):
+        if file_path is None:
+            return np.zeros((81, 2))
+        if os.path.exists(file_path):
+            landmark = np.load(file_path)
+            return np.float32(landmark)
+        else:
+            return np.zeros((81, 2))
+
+    def to_tensor(self, img):
+        return T.ToTensor()(img)
+
+    def normalize(self, img):
+        mean = self.config['mean']
+        std = self.config['std']
+        normalize = T.Normalize(mean=mean, std=std)
+        return normalize(img)
+
+    def data_aug(self, img):
+        kwargs = {'image': img}
+        
+        transformed = self.transform(**kwargs)
+        
+        augmented_img = transformed['image']
+
+        if augmented_landmark is not None:
+            augmented_landmark = np.array(augmented_landmark)
+
+        return augmented_img
 
     def __getitem__(self, index):
-        return self.dataset[index]
+        image_path = os.path.join(self.root_dir, self.image_paths[index])
+        label = 1 if 'real' in self.image_paths[index] else 0
 
-# Your existing code continues...
+        try:
+            image = self.load_rgb(image_path)
+        except Exception as e:
+            print(f"Error loading image at index {index}: {e}")
+            return self.__getitem__(0)
+        image = np.array(image)
+
+        mask_path = image_path.replace('frames', 'masks')
+        landmark_path = image_path.replace('frames', 'landmarks').replace('.png', '.npy')
+
+        if self.mode == 'test' and self.config['use_data_augmentation']:
+            image_trans = self.data_aug(image)
+        else:
+            image_trans= deepcopy(image)
+
+        image_trans = self.normalize(self.to_tensor(image_trans))
+        
+        return image_trans, label
+
+    @staticmethod
+    def collate_fn(batch):
+        images, labels = zip(*batch)
+        images = torch.stack(images, dim=0)
+        labels = torch.LongTensor(labels)
+
+       
+
+        data_dict = {}
+        data_dict['image'] = images
+        data_dict['label'] = labels
+        
+        return data_dict
+
+    def init_data_aug_method(self):
+        trans = A.Compose([           
+            A.HorizontalFlip(p=self.config['data_aug']['flip_prob']),
+            A.Rotate(limit=self.config['data_aug']['rotate_limit'], p=self.config['data_aug']['rotate_prob']),
+            A.GaussianBlur(blur_limit=self.config['data_aug']['blur_limit'], p=self.config['data_aug']['blur_prob']),
+            A.OneOf([                
+                IsotropicResize(max_side=self.config['resolution'], interpolation_down=cv2.INTER_AREA, interpolation_up=cv2.INTER_CUBIC),
+                IsotropicResize(max_side=self.config['resolution'], interpolation_down=cv2.INTER_AREA, interpolation_up=cv2.INTER_LINEAR),
+                IsotropicResize(max_side=self.config['resolution'], interpolation_down=cv2.INTER_LINEAR, interpolation_up=cv2.INTER_LINEAR),
+            ], p=1),
+            A.OneOf([
+                A.RandomBrightnessContrast(brightness_limit=self.config['data_aug']['brightness_limit'], contrast_limit=self.config['data_aug']['contrast_limit']),
+                A.FancyPCA(),
+                A.HueSaturationValue()
+            ], p=0.5),
+            A.ImageCompression(quality_lower=self.config['data_aug']['quality_lower'], quality_upper=self.config['data_aug']['quality_upper'], p=0.5)
+        ], 
+            keypoint_params=A.KeypointParams(format='xy') if self.config['with_landmark'] else None
+        )
+        return trans
+
+# Usage:
+# Load the configuration file
+config_path = '/Users/jainavmutha/DeepfakeBench/training/config/detector/ucf.yaml'
+with open(config_path, 'r') as f:
+    config = yaml.safe_load(f)
 
 # Create Albumentations transformation
 transform = A.Compose([
@@ -522,33 +643,23 @@ transform = A.Compose([
     ToTensorV2()
 ])
 
-# Create dataset and dataloader
-root_dir = '/Users/jainavmutha/DeepfakeBench/datasets/'
-image_file_path = '/Users/jainavmutha/DeepfakeBench/training/copied_image_paths.csv'
-with open('/Users/jainavmutha/DeepfakeBench/preprocessing/config.yaml', 'r') as f:
-    config = yaml.safe_load(f)
-dataset = DeepfakeAbstractBaseDataset(config=config, mode='train', root_dir=root_dir, image_file_path=image_file_path)
-dataloader = DataLoader(dataset, batch_size=2, shuffle=True, num_workers=0)
+# Create custom dataset and dataloader
+custom_dataset = DeepfakeAbstractBaseDataset(root_dir='/Users/jainavmutha/DeepfakeBench/datasets/', 
+                                       image_file_path='/Users/jainavmutha/DeepfakeBench/training/copied_image_paths.csv', 
+                                       transform=transform, 
+                                       config=config,
+                                       mode='train')
 
-# Print labels and create a DataFrame
-image_labels_df = pd.DataFrame(columns=['Image_Path', 'Label'])
+custom_data_loader = torch.utils.data.DataLoader(dataset=custom_dataset,
+                                                 batch_size=32,
+                                                 shuffle=True,
+                                                 num_workers=8,
+                                                 collate_fn=custom_dataset.collate_fn)
 
-# Create tqdm progress bar
-progress_bar = tqdm(total=len(dataset), desc="Processing Images")
-
-for i_batch, sample_batched in enumerate(dataloader):
-    # Store the original paths in a list
-    image_paths_list = [os.path.join(root_dir, path) for path in dataset.dataset.image_paths[i_batch * 2: (i_batch + 1) * 2]]
-
-    # Concatenate the DataFrame
-    image_labels_df = pd.concat([image_labels_df, pd.DataFrame({'Image_Path': image_paths_list, 'Label': sample_batched['label'].numpy()})], ignore_index=True)
-
-    # Update tqdm progress bar
-    progress_bar.update(len(sample_batched))
-
-# Close tqdm progress bar
-progress_bar.close()
-
-# Display the DataFrame
-print("DONE")
-'''
+# Iterate through the DataLoader
+for iteration, batch in enumerate(custom_data_loader):
+    images = batch['image']
+    labels = batch['label']
+    # Process your batches here
+print('DONEhhhhhhh')
+    # ...
